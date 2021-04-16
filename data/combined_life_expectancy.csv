@@ -1,0 +1,2197 @@
+location,period,gender,life_expectancy,healthy_life_expectancy
+Afghanistan,2019,Both sexes,63.21,53.95
+Afghanistan,2019,Male,63.29,54.73
+Afghanistan,2019,Female,63.16,53.15
+Afghanistan,2015,Both sexes,61.65,52.6
+Afghanistan,2015,Male,61.04,52.78
+Afghanistan,2015,Female,62.35,52.44
+Afghanistan,2010,Both sexes,59.94,51.13
+Afghanistan,2010,Male,59.6,51.51
+Afghanistan,2010,Female,60.3,50.75
+Afghanistan,2000,Both sexes,54.99,46.76
+Afghanistan,2000,Male,54.57,46.93
+Afghanistan,2000,Female,55.42,46.58
+Albania,2019,Both sexes,78,69.08
+Albania,2019,Male,76.25,68
+Albania,2019,Female,79.91,70.25
+Albania,2015,Both sexes,77.84,69.03
+Albania,2015,Male,76.1,67.99
+Albania,2015,Female,79.69,70.12
+Albania,2010,Both sexes,76.25,67.57
+Albania,2010,Male,74.23,66.34
+Albania,2010,Female,78.31,68.85
+Albania,2000,Both sexes,73.55,65.24
+Albania,2000,Male,70.65,63.15
+Albania,2000,Female,76.92,67.69
+Algeria,2019,Both sexes,77.13,66.39
+Algeria,2019,Male,76.23,66.72
+Algeria,2019,Female,78.12,66.08
+Algeria,2015,Both sexes,76.54,65.99
+Algeria,2015,Male,75.65,66.33
+Algeria,2015,Female,77.5,65.67
+Algeria,2010,Both sexes,75.85,65.53
+Algeria,2010,Male,74.95,65.85
+Algeria,2010,Female,76.79,65.22
+Algeria,2000,Both sexes,72.21,62.71
+Algeria,2000,Male,70.94,62.63
+Algeria,2000,Female,73.54,62.8
+Angola,2019,Both sexes,63.06,54.84
+Angola,2019,Male,60.7,53.55
+Angola,2019,Female,65.52,56.21
+Angola,2015,Both sexes,61.72,53.66
+Angola,2015,Male,59.13,52.18
+Angola,2015,Female,64.5,55.28
+Angola,2010,Both sexes,58.07,50.57
+Angola,2010,Male,55.78,49.27
+Angola,2010,Female,60.53,51.97
+Angola,2000,Both sexes,49.3,42.87
+Angola,2000,Male,46.77,41.18
+Angola,2000,Female,52.12,44.74
+Antigua and Barbuda,2019,Both sexes,76.45,66.97
+Antigua and Barbuda,2019,Male,74.88,66.25
+Antigua and Barbuda,2019,Female,77.96,67.69
+Antigua and Barbuda,2015,Both sexes,76.14,66.81
+Antigua and Barbuda,2015,Male,74.43,65.94
+Antigua and Barbuda,2015,Female,77.76,67.66
+Antigua and Barbuda,2010,Both sexes,75.95,66.7
+Antigua and Barbuda,2010,Male,73.56,65.28
+Antigua and Barbuda,2010,Female,78.25,68.09
+Antigua and Barbuda,2000,Both sexes,74.56,65.53
+Antigua and Barbuda,2000,Male,72,63.93
+Antigua and Barbuda,2000,Female,76.95,67.04
+Argentina,2019,Both sexes,76.58,67.13
+Argentina,2019,Male,73.51,65.4
+Argentina,2019,Female,79.5,68.77
+Argentina,2015,Both sexes,76.17,66.86
+Argentina,2015,Male,72.92,64.94
+Argentina,2015,Female,79.3,68.7
+Argentina,2010,Both sexes,75.44,66.3
+Argentina,2010,Male,72.14,64.37
+Argentina,2010,Female,78.63,68.17
+Argentina,2000,Both sexes,74.09,65.14
+Argentina,2000,Male,70.34,62.83
+Argentina,2000,Female,77.83,67.46
+Armenia,2019,Both sexes,76.03,67.12
+Armenia,2019,Male,72.49,64.88
+Armenia,2019,Female,79.16,69.1
+Armenia,2015,Both sexes,74.51,66
+Armenia,2015,Male,70.88,63.67
+Armenia,2015,Female,77.83,68.14
+Armenia,2010,Both sexes,73.12,64.84
+Armenia,2010,Male,69.39,62.36
+Armenia,2010,Female,76.61,67.18
+Armenia,2000,Both sexes,71.88,63.5
+Armenia,2000,Male,68.59,61.19
+Armenia,2000,Female,74.91,65.64
+Australia,2019,Both sexes,83.04,70.93
+Australia,2019,Male,81.25,70.15
+Australia,2019,Female,84.84,71.73
+Australia,2015,Both sexes,82.28,70.56
+Australia,2015,Male,80.41,69.74
+Australia,2015,Female,84.17,71.4
+Australia,2010,Both sexes,81.9,70.17
+Australia,2010,Male,79.84,69.16
+Australia,2010,Female,83.99,71.19
+Australia,2000,Both sexes,79.69,68.57
+Australia,2000,Male,77.13,67.16
+Australia,2000,Female,82.24,69.97
+Austria,2019,Both sexes,81.65,70.94
+Austria,2019,Male,79.44,69.93
+Austria,2019,Female,83.78,71.9
+Austria,2015,Both sexes,80.98,70.39
+Austria,2015,Male,78.6,69.17
+Austria,2015,Female,83.29,71.56
+Austria,2010,Both sexes,80.39,69.92
+Austria,2010,Male,77.65,68.34
+Austria,2010,Female,82.99,71.4
+Austria,2000,Both sexes,78.17,68.18
+Austria,2000,Male,75.09,66.35
+Austria,2000,Female,80.98,69.81
+Azerbaijan,2019,Both sexes,71.43,63.65
+Azerbaijan,2019,Male,68.78,62.08
+Azerbaijan,2019,Female,74.09,65.22
+Azerbaijan,2015,Both sexes,70.67,63.09
+Azerbaijan,2015,Male,67.94,61.5
+Azerbaijan,2015,Female,73.43,64.72
+Azerbaijan,2010,Both sexes,69.03,61.71
+Azerbaijan,2010,Male,66.29,60.06
+Azerbaijan,2010,Female,71.83,63.41
+Azerbaijan,2000,Both sexes,65.52,58.5
+Azerbaijan,2000,Male,62.57,56.62
+Azerbaijan,2000,Female,68.5,60.41
+Bahamas,2019,Both sexes,73.21,64.35
+Bahamas,2019,Male,69.85,62.26
+Bahamas,2019,Female,76.59,66.47
+Bahamas,2015,Both sexes,72.92,64.17
+Bahamas,2015,Male,69.73,62.18
+Bahamas,2015,Female,76.08,66.16
+Bahamas,2010,Both sexes,72.96,64.31
+Bahamas,2010,Male,69.64,62.2
+Bahamas,2010,Female,76.25,66.41
+Bahamas,2000,Both sexes,70.94,62.69
+Bahamas,2000,Male,67.64,60.57
+Bahamas,2000,Female,74.19,64.78
+Bahrain,2019,Both sexes,75.81,65.88
+Bahrain,2019,Male,75.04,65.98
+Bahrain,2019,Female,77.02,65.49
+Bahrain,2015,Both sexes,76.46,66.24
+Bahrain,2015,Male,75.87,66.55
+Bahrain,2015,Female,77.27,65.55
+Bahrain,2010,Both sexes,74.52,65.04
+Bahrain,2010,Male,73.85,65.28
+Bahrain,2010,Female,75.34,64.35
+Bahrain,2000,Both sexes,70.47,61.88
+Bahrain,2000,Male,69.55,61.98
+Bahrain,2000,Female,71.77,61.63
+Bangladesh,2019,Both sexes,74.25,64.3
+Bangladesh,2019,Male,72.99,64.25
+Bangladesh,2019,Female,75.64,64.38
+Bangladesh,2015,Both sexes,73.58,63.76
+Bangladesh,2015,Male,72.5,63.82
+Bangladesh,2015,Female,74.79,63.74
+Bangladesh,2010,Both sexes,70.29,61.22
+Bangladesh,2010,Male,68.63,60.83
+Bangladesh,2010,Female,72.22,61.71
+Bangladesh,2000,Both sexes,65.59,57.05
+Bangladesh,2000,Male,64.07,56.62
+Bangladesh,2000,Female,67.36,57.55
+Barbados,2019,Both sexes,76.03,66.99
+Barbados,2019,Male,74.32,66.25
+Barbados,2019,Female,77.66,67.68
+Barbados,2015,Both sexes,76.22,67.21
+Barbados,2015,Male,75.01,66.84
+Barbados,2015,Female,77.36,67.55
+Barbados,2010,Both sexes,75.88,67
+Barbados,2010,Male,74.46,66.44
+Barbados,2010,Female,77.2,67.52
+Barbados,2000,Both sexes,74.5,65.96
+Barbados,2000,Male,72.13,64.61
+Barbados,2000,Female,76.72,67.22
+Belarus,2019,Both sexes,74.81,65.97
+Belarus,2019,Male,69.65,62.31
+Belarus,2019,Female,79.62,69.37
+Belarus,2015,Both sexes,73.82,65.06
+Belarus,2015,Male,68.56,61.22
+Belarus,2015,Female,78.79,68.68
+Belarus,2010,Both sexes,70.39,62.26
+Belarus,2010,Male,64.55,57.91
+Belarus,2010,Female,76.41,66.74
+Belarus,2000,Both sexes,68.85,60.82
+Belarus,2000,Male,63.28,56.63
+Belarus,2000,Female,74.61,65.16
+Belgium,2019,Both sexes,81.42,70.56
+Belgium,2019,Male,79.29,69.76
+Belgium,2019,Female,83.51,71.31
+Belgium,2015,Both sexes,80.71,69.99
+Belgium,2015,Male,78.48,69.11
+Belgium,2015,Female,82.86,70.83
+Belgium,2010,Both sexes,79.85,69.21
+Belgium,2010,Male,77.24,68
+Belgium,2010,Female,82.38,70.36
+Belgium,2000,Both sexes,77.66,67.84
+Belgium,2000,Male,74.54,66.12
+Belgium,2000,Female,80.74,69.52
+Belize,2019,Both sexes,74.41,65.29
+Belize,2019,Male,71.36,63.48
+Belize,2019,Female,77.77,67.31
+Belize,2015,Both sexes,74.05,65.06
+Belize,2015,Male,71.14,63.33
+Belize,2015,Female,77.29,67
+Belize,2010,Both sexes,73.39,64.57
+Belize,2010,Male,70.89,63.15
+Belize,2010,Female,76.12,66.12
+Belize,2000,Both sexes,70.34,62.29
+Belize,2000,Male,67.18,60.34
+Belize,2000,Female,74.02,64.57
+Benin,2019,Both sexes,63.43,55.52
+Benin,2019,Male,61.19,54.47
+Benin,2019,Female,65.66,56.57
+Benin,2015,Both sexes,61.96,54.29
+Benin,2015,Male,59.66,53.18
+Benin,2015,Female,64.25,55.39
+Benin,2010,Both sexes,60.47,53
+Benin,2010,Male,58.03,51.74
+Benin,2010,Female,62.88,54.25
+Benin,2000,Both sexes,56.59,49.59
+Benin,2000,Male,54.31,48.44
+Benin,2000,Female,58.77,50.69
+Bhutan,2019,Both sexes,73.11,63.36
+Bhutan,2019,Male,72.03,63.24
+Bhutan,2019,Female,74.39,63.48
+Bhutan,2015,Both sexes,72.15,62.6
+Bhutan,2015,Male,71.05,62.46
+Bhutan,2015,Female,73.45,62.74
+Bhutan,2010,Both sexes,71.01,61.67
+Bhutan,2010,Male,69.87,61.51
+Bhutan,2010,Female,72.35,61.83
+Bhutan,2000,Both sexes,65.7,57.06
+Bhutan,2000,Male,64.88,57.2
+Bhutan,2000,Female,66.59,56.88
+Bolivia (Plurinational State of),2019,Both sexes,72.14,63.27
+Bolivia (Plurinational State of),2019,Male,71.15,63.21
+Bolivia (Plurinational State of),2019,Female,73.13,63.34
+Bolivia (Plurinational State of),2015,Both sexes,71.52,62.73
+Bolivia (Plurinational State of),2015,Male,70.59,62.72
+Bolivia (Plurinational State of),2015,Female,72.45,62.75
+Bolivia (Plurinational State of),2010,Both sexes,70.34,61.72
+Bolivia (Plurinational State of),2010,Male,69.44,61.71
+Bolivia (Plurinational State of),2010,Female,71.25,61.73
+Bolivia (Plurinational State of),2000,Both sexes,66.02,57.89
+Bolivia (Plurinational State of),2000,Male,64.81,57.61
+Bolivia (Plurinational State of),2000,Female,67.25,58.18
+Bosnia and Herzegovina,2019,Both sexes,76.75,67.19
+Bosnia and Herzegovina,2019,Male,74.38,65.66
+Bosnia and Herzegovina,2019,Female,79.09,68.68
+Bosnia and Herzegovina,2015,Both sexes,76.32,66.97
+Bosnia and Herzegovina,2015,Male,73.94,65.42
+Bosnia and Herzegovina,2015,Female,78.65,68.47
+Bosnia and Herzegovina,2010,Both sexes,76.19,66.98
+Bosnia and Herzegovina,2010,Male,73.85,65.4
+Bosnia and Herzegovina,2010,Female,78.47,68.5
+Bosnia and Herzegovina,2000,Both sexes,75.42,66.17
+Bosnia and Herzegovina,2000,Male,72.6,64.21
+Bosnia and Herzegovina,2000,Female,78.03,67.97
+Botswana,2019,Both sexes,62.25,53.89
+Botswana,2019,Male,58.95,51.93
+Botswana,2019,Female,65.46,55.81
+Botswana,2015,Both sexes,60.93,52.78
+Botswana,2015,Male,57.83,50.94
+Botswana,2015,Female,63.93,54.59
+Botswana,2010,Both sexes,58.14,50.56
+Botswana,2010,Male,55.14,48.75
+Botswana,2010,Female,61.36,52.55
+Botswana,2000,Both sexes,45.59,40.08
+Botswana,2000,Male,43.9,39.18
+Botswana,2000,Female,47.77,41.4
+Brazil,2019,Both sexes,75.9,65.4
+Brazil,2019,Male,72.45,63.44
+Brazil,2019,Female,79.39,67.37
+Brazil,2015,Both sexes,75.13,64.7
+Brazil,2015,Male,71.67,62.76
+Brazil,2015,Female,78.64,66.65
+Brazil,2010,Both sexes,74.09,63.95
+Brazil,2010,Male,70.57,61.99
+Brazil,2010,Female,77.68,65.95
+Brazil,2000,Both sexes,71.47,61.66
+Brazil,2000,Male,67.9,59.6
+Brazil,2000,Female,75.18,63.82
+Brunei Darussalam,2019,Both sexes,74.32,65.65
+Brunei Darussalam,2019,Male,73.39,65.2
+Brunei Darussalam,2019,Female,75.36,66.14
+Brunei Darussalam,2015,Both sexes,74.4,65.71
+Brunei Darussalam,2015,Male,73.38,65.16
+Brunei Darussalam,2015,Female,75.5,66.28
+Brunei Darussalam,2010,Both sexes,74.57,65.76
+Brunei Darussalam,2010,Male,73.35,65.09
+Brunei Darussalam,2010,Female,75.84,66.46
+Brunei Darussalam,2000,Both sexes,72.2,63.89
+Brunei Darussalam,2000,Male,70.86,63.12
+Brunei Darussalam,2000,Female,73.68,64.76
+Bulgaria,2019,Both sexes,75.07,66.28
+Bulgaria,2019,Male,71.65,63.91
+Bulgaria,2019,Female,78.6,68.71
+Bulgaria,2015,Both sexes,74.55,65.91
+Bulgaria,2015,Male,71.17,63.53
+Bulgaria,2015,Female,78.04,68.36
+Bulgaria,2010,Both sexes,73.64,65.2
+Bulgaria,2010,Male,70.19,62.72
+Bulgaria,2010,Female,77.23,67.77
+Bulgaria,2000,Both sexes,71.61,63.54
+Bulgaria,2000,Male,68.4,61.19
+Bulgaria,2000,Female,74.97,66
+Burkina Faso,2019,Both sexes,62.7,54.86
+Burkina Faso,2019,Male,60.06,53.39
+Burkina Faso,2019,Female,65.23,56.26
+Burkina Faso,2015,Both sexes,60.92,53.35
+Burkina Faso,2015,Male,58.24,51.86
+Burkina Faso,2015,Female,63.45,54.76
+Burkina Faso,2010,Both sexes,58.59,51.2
+Burkina Faso,2010,Male,56.19,49.76
+Burkina Faso,2010,Female,60.79,52.52
+Burkina Faso,2000,Both sexes,51.64,44.88
+Burkina Faso,2000,Male,49.92,43.9
+Burkina Faso,2000,Female,53.14,45.74
+Burundi,2019,Both sexes,63.84,55.58
+Burundi,2019,Male,61.55,53.98
+Burundi,2019,Female,66.14,57.2
+Burundi,2015,Both sexes,62.05,53.96
+Burundi,2015,Male,59.84,52.37
+Burundi,2015,Female,64.26,55.56
+Burundi,2010,Both sexes,58.6,50.88
+Burundi,2010,Male,56.86,49.63
+Burundi,2010,Female,60.32,52.11
+Burundi,2000,Both sexes,43.78,38.13
+Burundi,2000,Male,41.79,36.64
+Burundi,2000,Female,45.85,39.68
+Cabo Verde,2019,Both sexes,74.03,64.8
+Cabo Verde,2019,Male,69.9,62.21
+Cabo Verde,2019,Female,77.94,67.22
+Cabo Verde,2015,Both sexes,74.88,65.25
+Cabo Verde,2015,Male,72.18,63.66
+Cabo Verde,2015,Female,77.59,66.85
+Cabo Verde,2010,Both sexes,74.12,64.53
+Cabo Verde,2010,Male,70.83,62.53
+Cabo Verde,2010,Female,77.27,66.43
+Cabo Verde,2000,Both sexes,70.97,61.98
+Cabo Verde,2000,Male,66.89,59.44
+Cabo Verde,2000,Female,74.61,64.24
+Cambodia,2019,Both sexes,70.12,61.51
+Cambodia,2019,Male,67.23,59.81
+Cambodia,2019,Female,72.75,63.03
+Cambodia,2015,Both sexes,69.17,60.75
+Cambodia,2015,Male,66.2,58.95
+Cambodia,2015,Female,71.89,62.37
+Cambodia,2010,Both sexes,67.22,59.01
+Cambodia,2010,Male,64.19,57.2
+Cambodia,2010,Female,70.01,60.67
+Cambodia,2000,Both sexes,58.68,51.39
+Cambodia,2000,Male,56.03,49.81
+Cambodia,2000,Female,61.24,52.93
+Cameroon,2019,Both sexes,62.36,54.52
+Cameroon,2019,Male,60.29,53.47
+Cameroon,2019,Female,64.5,55.6
+Cameroon,2015,Both sexes,59.11,51.78
+Cameroon,2015,Male,57.29,50.92
+Cameroon,2015,Female,60.99,52.68
+Cameroon,2010,Both sexes,56.58,49.57
+Cameroon,2010,Male,55.09,48.98
+Cameroon,2010,Female,58.09,50.17
+Cameroon,2000,Both sexes,52.82,46.05
+Cameroon,2000,Male,51.34,45.4
+Cameroon,2000,Female,54.35,46.74
+Canada,2019,Both sexes,82.24,71.25
+Canada,2019,Male,80.4,70.51
+Canada,2019,Female,84.05,71.98
+Canada,2015,Both sexes,81.76,71.15
+Canada,2015,Male,79.88,70.41
+Canada,2015,Female,83.58,71.85
+Canada,2010,Both sexes,81.31,70.84
+Canada,2010,Male,79.26,69.92
+Canada,2010,Female,83.27,71.69
+Canada,2000,Both sexes,79.1,69.42
+Canada,2000,Male,76.54,68.11
+Canada,2000,Female,81.55,70.64
+Central African Republic,2019,Both sexes,53.1,46.37
+Central African Republic,2019,Male,50.21,44.48
+Central African Republic,2019,Female,56.26,48.44
+Central African Republic,2015,Both sexes,50.53,44.16
+Central African Republic,2015,Male,48.19,42.67
+Central African Republic,2015,Female,53.03,45.74
+Central African Republic,2010,Both sexes,48.51,42.45
+Central African Republic,2010,Male,46.69,41.41
+Central African Republic,2010,Female,50.44,43.56
+Central African Republic,2000,Both sexes,44.34,38.69
+Central African Republic,2000,Male,43.24,38.19
+Central African Republic,2000,Female,45.52,39.27
+Chad,2019,Both sexes,59.63,52.02
+Chad,2019,Male,57.95,51.28
+Chad,2019,Female,61.34,52.76
+Chad,2015,Both sexes,57.91,50.53
+Chad,2015,Male,56.22,49.79
+Chad,2015,Female,59.63,51.29
+Chad,2010,Both sexes,55.65,48.55
+Chad,2010,Male,53.93,47.73
+Chad,2010,Female,57.43,49.4
+Chad,2000,Both sexes,51.08,44.7
+Chad,2000,Male,49.26,43.72
+Chad,2000,Female,52.98,45.73
+Chile,2019,Both sexes,80.74,70.05
+Chile,2019,Male,78.09,68.96
+Chile,2019,Female,83.25,71.05
+Chile,2015,Both sexes,79.82,69.44
+Chile,2015,Male,76.98,68.14
+Chile,2015,Female,82.51,70.66
+Chile,2010,Both sexes,78.46,68.46
+Chile,2010,Male,75.48,67.02
+Chile,2010,Female,81.3,69.82
+Chile,2000,Both sexes,76.77,67
+Chile,2000,Male,73.64,65.43
+Chile,2000,Female,79.77,68.47
+China,2019,Both sexes,77.43,68.53
+China,2019,Male,74.73,67.21
+China,2019,Female,80.49,70.02
+China,2015,Both sexes,76.64,68.01
+China,2015,Male,73.85,66.6
+China,2015,Female,79.87,69.65
+China,2010,Both sexes,74.89,66.68
+China,2010,Male,72.26,65.35
+China,2010,Female,77.94,68.23
+China,2000,Both sexes,71.58,63.71
+China,2000,Male,69.34,62.71
+China,2000,Female,74.15,64.86
+Colombia,2019,Both sexes,79.31,68.96
+Colombia,2019,Male,76.69,67.42
+Colombia,2019,Female,81.87,70.47
+Colombia,2015,Both sexes,78.35,68.29
+Colombia,2015,Male,75.63,66.64
+Colombia,2015,Female,81.01,69.91
+Colombia,2010,Both sexes,77.09,67.15
+Colombia,2010,Male,74,65.18
+Colombia,2010,Female,80.15,69.1
+Colombia,2000,Both sexes,73.75,64.14
+Colombia,2000,Male,69.71,61.42
+Colombia,2000,Female,77.85,66.91
+Comoros,2019,Both sexes,67.39,58.95
+Comoros,2019,Male,65.92,58.27
+Comoros,2019,Female,68.88,59.62
+Comoros,2015,Both sexes,66.45,58.19
+Comoros,2015,Male,65.07,57.61
+Comoros,2015,Female,67.84,58.77
+Comoros,2010,Both sexes,64.98,56.97
+Comoros,2010,Male,63.6,56.39
+Comoros,2010,Female,66.35,57.53
+Comoros,2000,Both sexes,61.51,53.77
+Comoros,2000,Male,60.15,53.15
+Comoros,2000,Female,62.86,54.38
+Congo,2019,Both sexes,64.74,56.25
+Congo,2019,Male,63.81,56.35
+Congo,2019,Female,65.61,56.11
+Congo,2015,Both sexes,63.11,54.9
+Congo,2015,Male,62.56,55.29
+Congo,2015,Female,63.59,54.49
+Congo,2010,Both sexes,60.95,53.03
+Congo,2010,Male,60.99,53.85
+Congo,2010,Female,60.85,52.21
+Congo,2000,Both sexes,52.12,45.35
+Congo,2000,Male,51.54,45.48
+Congo,2000,Female,52.58,45.18
+Costa Rica,2019,Both sexes,80.85,69.97
+Costa Rica,2019,Male,78.31,68.65
+Costa Rica,2019,Female,83.44,71.33
+Costa Rica,2015,Both sexes,80.78,70.04
+Costa Rica,2015,Male,78.16,68.67
+Costa Rica,2015,Female,83.47,71.44
+Costa Rica,2010,Both sexes,79.56,69.19
+Costa Rica,2010,Male,76.98,67.86
+Costa Rica,2010,Female,82.22,70.55
+Costa Rica,2000,Both sexes,78,68.04
+Costa Rica,2000,Male,75.47,66.84
+Costa Rica,2000,Female,80.63,69.28
+Côte d’Ivoire,2019,Both sexes,62.92,54.81
+Côte d’Ivoire,2019,Male,60.53,53.45
+Côte d’Ivoire,2019,Female,65.81,56.46
+Côte d’Ivoire,2015,Both sexes,60.2,52.52
+Côte d’Ivoire,2015,Male,57.98,51.27
+Côte d’Ivoire,2015,Female,62.96,54.09
+Côte d’Ivoire,2010,Both sexes,56.62,49.46
+Côte d’Ivoire,2010,Male,54.81,48.51
+Côte d’Ivoire,2010,Female,58.94,50.71
+Côte d’Ivoire,2000,Both sexes,50.33,43.96
+Côte d’Ivoire,2000,Male,48.94,43.3
+Côte d’Ivoire,2000,Female,52.31,44.96
+Croatia,2019,Both sexes,78.64,68.62
+Croatia,2019,Male,75.54,66.69
+Croatia,2019,Female,81.6,70.46
+Croatia,2015,Both sexes,77.58,67.9
+Croatia,2015,Male,74.3,65.78
+Croatia,2015,Female,80.73,69.93
+Croatia,2010,Both sexes,76.72,67.31
+Croatia,2010,Male,73.41,65.1
+Croatia,2010,Female,79.91,69.44
+Croatia,2000,Both sexes,74.36,65.43
+Croatia,2000,Male,70.74,62.89
+Croatia,2000,Female,77.88,67.89
+Cuba,2019,Both sexes,77.76,67.84
+Cuba,2019,Male,75.37,66.55
+Cuba,2019,Female,80.25,69.16
+Cuba,2015,Both sexes,77.91,68.05
+Cuba,2015,Male,75.7,66.93
+Cuba,2015,Female,80.19,69.19
+Cuba,2010,Both sexes,77.65,67.95
+Cuba,2010,Male,75.55,66.96
+Cuba,2010,Female,79.82,68.98
+Cuba,2000,Both sexes,76.76,67.12
+Cuba,2000,Male,74.59,66.16
+Cuba,2000,Female,79.04,68.14
+Cyprus,2019,Both sexes,83.14,72.41
+Cyprus,2019,Male,81.12,71.82
+Cyprus,2019,Female,85.12,72.97
+Cyprus,2015,Both sexes,82.01,71.63
+Cyprus,2015,Male,79.89,70.86
+Cyprus,2015,Female,84.12,72.37
+Cyprus,2010,Both sexes,81.02,70.79
+Cyprus,2010,Male,78.93,70.02
+Cyprus,2010,Female,83.1,71.54
+Cyprus,2000,Both sexes,78.75,69.13
+Cyprus,2000,Male,76.53,68.28
+Cyprus,2000,Female,80.99,69.96
+Czechia,2019,Both sexes,79.13,68.79
+Czechia,2019,Male,76.3,66.97
+Czechia,2019,Female,81.93,70.57
+Czechia,2015,Both sexes,78.46,68.29
+Czechia,2015,Male,75.57,66.36
+Czechia,2015,Female,81.3,70.17
+Czechia,2010,Both sexes,77.56,67.74
+Czechia,2010,Male,74.41,65.57
+Czechia,2010,Female,80.65,69.86
+Czechia,2000,Both sexes,74.95,65.94
+Czechia,2000,Male,71.53,63.56
+Czechia,2000,Female,78.29,68.25
+Democratic People's Republic of Korea,2019,Both sexes,72.63,65.01
+Democratic People's Republic of Korea,2019,Male,69.29,63.3
+Democratic People's Republic of Korea,2019,Female,75.69,66.58
+Democratic People's Republic of Korea,2015,Both sexes,71.76,64.3
+Democratic People's Republic of Korea,2015,Male,68.42,62.58
+Democratic People's Republic of Korea,2015,Female,74.78,65.86
+Democratic People's Republic of Korea,2010,Both sexes,70.18,62.98
+Democratic People's Republic of Korea,2010,Male,66.93,61.3
+Democratic People's Republic of Korea,2010,Female,73.09,64.49
+Democratic People's Republic of Korea,2000,Both sexes,63.95,57.75
+Democratic People's Republic of Korea,2000,Male,60.79,55.99
+Democratic People's Republic of Korea,2000,Female,66.84,59.38
+Democratic Republic of the Congo,2019,Both sexes,62.35,54.09
+Democratic Republic of the Congo,2019,Male,60,52.81
+Democratic Republic of the Congo,2019,Female,64.82,55.44
+Democratic Republic of the Congo,2015,Both sexes,60.44,52.43
+Democratic Republic of the Congo,2015,Male,58.25,51.28
+Democratic Republic of the Congo,2015,Female,62.73,53.64
+Democratic Republic of the Congo,2010,Both sexes,57.51,49.88
+Democratic Republic of the Congo,2010,Male,55.65,48.98
+Democratic Republic of the Congo,2010,Female,59.42,50.82
+Democratic Republic of the Congo,2000,Both sexes,52.44,45.26
+Democratic Republic of the Congo,2000,Male,50.46,44.13
+Democratic Republic of the Congo,2000,Female,54.49,46.42
+Denmark,2019,Both sexes,81.32,71.04
+Denmark,2019,Male,79.59,70.67
+Denmark,2019,Female,83.02,71.38
+Denmark,2015,Both sexes,80.59,70.53
+Denmark,2015,Male,78.8,70.09
+Denmark,2015,Female,82.35,70.93
+Denmark,2010,Both sexes,79.17,69.42
+Denmark,2010,Male,77.2,68.78
+Denmark,2010,Female,81.1,70.02
+Denmark,2000,Both sexes,76.93,67.57
+Denmark,2000,Male,74.66,66.73
+Denmark,2000,Female,79.13,68.34
+Djibouti,2019,Both sexes,65.81,58
+Djibouti,2019,Male,64.1,57.21
+Djibouti,2019,Female,67.78,58.9
+Djibouti,2015,Both sexes,64.64,57
+Djibouti,2015,Male,62.84,56.12
+Djibouti,2015,Female,66.62,57.91
+Djibouti,2010,Both sexes,61.87,54.59
+Djibouti,2010,Male,60.63,54.23
+Djibouti,2010,Female,63.26,55
+Djibouti,2000,Both sexes,59.84,52.73
+Djibouti,2000,Male,57.87,51.76
+Djibouti,2000,Female,61.96,53.77
+Dominican Republic,2019,Both sexes,72.84,63.98
+Dominican Republic,2019,Male,69.76,62.07
+Dominican Republic,2019,Female,76.19,66.05
+Dominican Republic,2015,Both sexes,71.75,63.21
+Dominican Republic,2015,Male,68.62,61.25
+Dominican Republic,2015,Female,75.2,65.39
+Dominican Republic,2010,Both sexes,73.17,64.38
+Dominican Republic,2010,Male,70.43,62.74
+Dominican Republic,2010,Female,76.14,66.17
+Dominican Republic,2000,Both sexes,73.22,64.1
+Dominican Republic,2000,Male,70.22,62.12
+Dominican Republic,2000,Female,76.66,66.39
+Ecuador,2019,Both sexes,78.45,68.48
+Ecuador,2019,Male,76.41,67.71
+Ecuador,2019,Female,80.5,69.26
+Ecuador,2015,Both sexes,77.18,67.49
+Ecuador,2015,Male,74.92,66.48
+Ecuador,2015,Female,79.5,68.53
+Ecuador,2010,Both sexes,75.02,65.8
+Ecuador,2010,Male,72.31,64.36
+Ecuador,2010,Female,77.86,67.3
+Ecuador,2000,Both sexes,74.53,65.25
+Ecuador,2000,Male,71.91,63.9
+Ecuador,2000,Female,77.27,66.66
+Egypt,2019,Both sexes,71.82,62.97
+Egypt,2019,Male,69.59,62.29
+Egypt,2019,Female,74.14,63.68
+Egypt,2015,Both sexes,70.49,62
+Egypt,2015,Male,68.22,61.29
+Egypt,2015,Female,72.89,62.77
+Egypt,2010,Both sexes,70.2,61.69
+Egypt,2010,Male,67.82,60.91
+Egypt,2010,Female,72.69,62.51
+Egypt,2000,Both sexes,69.82,61.21
+Egypt,2000,Male,67.29,60.27
+Egypt,2000,Female,72.42,62.16
+El Salvador,2019,Both sexes,75.03,64.87
+El Salvador,2019,Male,70.58,61.65
+El Salvador,2019,Female,79.13,67.82
+El Salvador,2015,Both sexes,73.25,63.46
+El Salvador,2015,Male,68.12,59.63
+El Salvador,2015,Female,78.02,67.03
+El Salvador,2010,Both sexes,74.5,64.4
+El Salvador,2010,Male,70.62,61.5
+El Salvador,2010,Female,78.04,67.04
+El Salvador,2000,Both sexes,72.5,62.73
+El Salvador,2000,Male,68.39,59.68
+El Salvador,2000,Female,76.48,65.66
+Equatorial Guinea,2019,Both sexes,62.19,53.86
+Equatorial Guinea,2019,Male,60.87,53.43
+Equatorial Guinea,2019,Female,63.58,54.08
+Equatorial Guinea,2015,Both sexes,61.13,52.9
+Equatorial Guinea,2015,Male,60.28,52.85
+Equatorial Guinea,2015,Female,61.83,52.6
+Equatorial Guinea,2010,Both sexes,59.65,51.68
+Equatorial Guinea,2010,Male,59.75,52.43
+Equatorial Guinea,2010,Female,59.12,50.42
+Equatorial Guinea,2000,Both sexes,54.31,46.81
+Equatorial Guinea,2000,Male,52.37,45.81
+Equatorial Guinea,2000,Female,56.49,47.88
+Eritrea,2019,Both sexes,64.08,55.73
+Eritrea,2019,Male,61.3,53.91
+Eritrea,2019,Female,67.07,57.7
+Eritrea,2015,Both sexes,62.29,54.1
+Eritrea,2015,Male,59.4,52.18
+Eritrea,2015,Female,65.45,56.21
+Eritrea,2010,Both sexes,60.7,52.65
+Eritrea,2010,Male,57.78,50.7
+Eritrea,2010,Female,63.97,54.84
+Eritrea,2000,Both sexes,54.51,47.01
+Eritrea,2000,Male,51.16,44.6
+Eritrea,2000,Female,58.48,49.86
+Estonia,2019,Both sexes,78.88,69.24
+Estonia,2019,Male,74.7,66.39
+Estonia,2019,Female,82.6,71.72
+Estonia,2015,Both sexes,77.6,68.26
+Estonia,2015,Male,73.03,65.03
+Estonia,2015,Female,81.71,71.12
+Estonia,2010,Both sexes,75.87,66.88
+Estonia,2010,Male,70.86,63.26
+Estonia,2010,Female,80.45,70.17
+Estonia,2000,Both sexes,70.94,62.56
+Estonia,2000,Male,65.6,58.54
+Estonia,2000,Female,76.17,66.5
+Eswatini,2019,Both sexes,57.73,50.06
+Eswatini,2019,Male,53.36,47.07
+Eswatini,2019,Female,63.18,53.85
+Eswatini,2015,Both sexes,54.05,46.91
+Eswatini,2015,Male,50.25,44.34
+Eswatini,2015,Female,58.71,50.16
+Eswatini,2010,Both sexes,47.43,41.38
+Eswatini,2010,Male,44.86,39.76
+Eswatini,2010,Female,50.76,43.65
+Eswatini,2000,Both sexes,47.05,41.28
+Eswatini,2000,Male,44.81,39.91
+Eswatini,2000,Female,49.44,42.8
+Ethiopia,2019,Both sexes,68.7,59.89
+Ethiopia,2019,Male,66.9,58.98
+Ethiopia,2019,Female,70.52,60.81
+Ethiopia,2015,Both sexes,66.82,58.32
+Ethiopia,2015,Male,65.04,57.41
+Ethiopia,2015,Female,68.64,59.25
+Ethiopia,2010,Both sexes,62.92,54.96
+Ethiopia,2010,Male,61.33,54.18
+Ethiopia,2010,Female,64.55,55.77
+Ethiopia,2000,Both sexes,50.58,44.33
+Ethiopia,2000,Male,49.52,43.86
+Ethiopia,2000,Female,51.7,44.85
+Fiji,2019,Both sexes,68.01,59.59
+Fiji,2019,Male,65.93,58.54
+Fiji,2019,Female,70.28,60.74
+Fiji,2015,Both sexes,67.83,59.58
+Fiji,2015,Male,65.77,58.57
+Fiji,2015,Female,70.08,60.69
+Fiji,2010,Both sexes,67.6,59.49
+Fiji,2010,Male,65.86,58.82
+Fiji,2010,Female,69.52,60.25
+Fiji,2000,Both sexes,65.9,58.09
+Fiji,2000,Male,63.69,56.89
+Fiji,2000,Female,68.43,59.47
+Finland,2019,Both sexes,81.61,71
+Finland,2019,Male,79.16,69.93
+Finland,2019,Female,84.04,72.03
+Finland,2015,Both sexes,81.21,70.73
+Finland,2015,Male,78.53,69.44
+Finland,2015,Female,83.85,71.97
+Finland,2010,Both sexes,79.88,69.55
+Finland,2010,Male,76.68,67.86
+Finland,2010,Female,83.04,71.21
+Finland,2000,Both sexes,77.6,67.78
+Finland,2000,Male,74.13,65.79
+Finland,2000,Female,80.91,69.64
+France,2019,Both sexes,82.48,72.08
+France,2019,Male,79.76,71.06
+France,2019,Female,85.09,73.06
+France,2015,Both sexes,81.91,71.7
+France,2015,Male,78.99,70.47
+France,2015,Female,84.72,72.87
+France,2010,Both sexes,81.22,71.16
+France,2010,Male,77.96,69.71
+France,2010,Female,84.34,72.54
+France,2000,Both sexes,78.91,69.3
+France,2000,Male,75.24,67.41
+France,2000,Female,82.52,71.14
+Gabon,2019,Both sexes,66.47,57.56
+Gabon,2019,Male,63.59,55.99
+Gabon,2019,Female,69.73,59.33
+Gabon,2015,Both sexes,64.93,56.29
+Gabon,2015,Male,62.11,54.75
+Gabon,2015,Female,68.09,57.98
+Gabon,2010,Both sexes,62.16,54.01
+Gabon,2010,Male,60.12,53.14
+Gabon,2010,Female,64.25,54.86
+Gabon,2000,Both sexes,58.1,50.5
+Gabon,2000,Male,56.15,49.64
+Gabon,2000,Female,60.1,51.39
+Gambia,2019,Both sexes,65.47,57.04
+Gambia,2019,Male,63.42,56.42
+Gambia,2019,Female,67.65,57.74
+Gambia,2015,Both sexes,64.14,55.83
+Gambia,2015,Male,62.18,55.27
+Gambia,2015,Female,66.28,56.5
+Gambia,2010,Both sexes,62.42,54.39
+Gambia,2010,Male,60.59,53.91
+Gambia,2010,Female,64.47,55.01
+Gambia,2000,Both sexes,59.24,51.66
+Gambia,2000,Male,57.17,50.96
+Gambia,2000,Female,61.63,52.53
+Georgia,2019,Both sexes,73.28,64.68
+Georgia,2019,Male,68.79,61.44
+Georgia,2019,Female,77.76,67.91
+Georgia,2015,Both sexes,72.58,64.2
+Georgia,2015,Male,68.24,61.09
+Georgia,2015,Female,76.93,67.31
+Georgia,2010,Both sexes,71.87,63.71
+Georgia,2010,Male,67.44,60.52
+Georgia,2010,Female,76.3,66.9
+Georgia,2000,Both sexes,69.41,61.94
+Georgia,2000,Male,65.58,59.22
+Georgia,2000,Female,73.14,64.6
+Germany,2019,Both sexes,81.72,70.89
+Germany,2019,Male,78.72,69.66
+Germany,2019,Female,84.77,72.11
+Germany,2015,Both sexes,80.42,70.07
+Germany,2015,Male,78.12,69.28
+Germany,2015,Female,82.71,70.85
+Germany,2010,Both sexes,80.17,69.96
+Germany,2010,Male,77.78,69.05
+Germany,2010,Female,82.54,70.87
+Germany,2000,Both sexes,78.09,68.46
+Germany,2000,Male,75.04,66.96
+Germany,2000,Female,80.92,69.81
+Ghana,2019,Both sexes,66.28,57.98
+Ghana,2019,Male,63.66,56.53
+Ghana,2019,Female,69.16,59.58
+Ghana,2015,Both sexes,64.55,56.49
+Ghana,2015,Male,61.97,55.12
+Ghana,2015,Female,67.41,58.02
+Ghana,2010,Both sexes,62,54.33
+Ghana,2010,Male,59.7,53.22
+Ghana,2010,Female,64.53,55.58
+Ghana,2000,Both sexes,59.24,51.9
+Ghana,2000,Male,57.75,51.37
+Ghana,2000,Female,60.8,52.46
+Greece,2019,Both sexes,81.1,70.87
+Greece,2019,Male,78.64,69.86
+Greece,2019,Female,83.57,71.87
+Greece,2015,Both sexes,80.38,70.43
+Greece,2015,Male,77.85,69.3
+Greece,2015,Female,82.94,71.55
+Greece,2010,Both sexes,80.1,70.04
+Greece,2010,Male,77.52,68.89
+Greece,2010,Female,82.71,71.2
+Greece,2000,Both sexes,78.17,68.63
+Greece,2000,Male,75.51,67.46
+Greece,2000,Female,80.89,69.82
+Grenada,2019,Both sexes,72.88,63.92
+Grenada,2019,Male,70.63,62.6
+Grenada,2019,Female,75.33,65.36
+Grenada,2015,Both sexes,72.7,63.85
+Grenada,2015,Male,70.44,62.5
+Grenada,2015,Female,75.15,65.33
+Grenada,2010,Both sexes,71.97,63.48
+Grenada,2010,Male,69.2,61.78
+Grenada,2010,Female,75.48,65.7
+Grenada,2000,Both sexes,71.97,63.58
+Grenada,2000,Male,68.6,61.47
+Grenada,2000,Female,75.95,66.13
+Guatemala,2019,Both sexes,72.02,62.3
+Guatemala,2019,Male,68.95,60.46
+Guatemala,2019,Female,75.04,64.12
+Guatemala,2015,Both sexes,70.95,61.48
+Guatemala,2015,Male,67.85,59.55
+Guatemala,2015,Female,74.01,63.37
+Guatemala,2010,Both sexes,69.3,60.09
+Guatemala,2010,Male,65.82,57.83
+Guatemala,2010,Female,72.77,62.32
+Guatemala,2000,Both sexes,66.78,57.84
+Guatemala,2000,Male,63.32,55.6
+Guatemala,2000,Female,70.27,60.07
+Guinea,2019,Both sexes,61.01,53.32
+Guinea,2019,Male,59.48,52.87
+Guinea,2019,Female,62.25,53.7
+Guinea,2015,Both sexes,58.81,51.51
+Guinea,2015,Male,57.28,51.06
+Guinea,2015,Female,60.07,51.92
+Guinea,2010,Both sexes,58.07,50.87
+Guinea,2010,Male,56.65,50.51
+Guinea,2010,Female,59.26,51.22
+Guinea,2000,Both sexes,54.26,47.54
+Guinea,2000,Male,53.1,47.31
+Guinea,2000,Female,55.3,47.81
+Guinea-Bissau,2019,Both sexes,60.22,52.62
+Guinea-Bissau,2019,Male,57.36,51.08
+Guinea-Bissau,2019,Female,62.98,54.12
+Guinea-Bissau,2015,Both sexes,58.23,50.92
+Guinea-Bissau,2015,Male,55.53,49.48
+Guinea-Bissau,2015,Female,60.81,52.31
+Guinea-Bissau,2010,Both sexes,55.43,48.56
+Guinea-Bissau,2010,Male,53.05,47.34
+Guinea-Bissau,2010,Female,57.68,49.71
+Guinea-Bissau,2000,Both sexes,50.28,44.05
+Guinea-Bissau,2000,Male,47.77,42.6
+Guinea-Bissau,2000,Female,52.76,45.49
+Guyana,2019,Both sexes,65.69,57.24
+Guyana,2019,Male,62.45,55.05
+Guyana,2019,Female,69.39,59.74
+Guyana,2015,Both sexes,65.59,57.17
+Guyana,2015,Male,62.31,54.97
+Guyana,2015,Female,69.22,59.61
+Guyana,2010,Both sexes,64.77,56.58
+Guyana,2010,Male,61.63,54.51
+Guyana,2010,Female,68.23,58.86
+Guyana,2000,Both sexes,62.96,54.97
+Guyana,2000,Male,59.81,52.89
+Guyana,2000,Female,66.51,57.31
+Haiti,2019,Both sexes,64.05,55.8
+Haiti,2019,Male,63.34,55.87
+Haiti,2019,Female,64.76,55.76
+Haiti,2015,Both sexes,62.61,54.59
+Haiti,2015,Male,62.09,54.77
+Haiti,2015,Female,63.13,54.44
+Haiti,2010,Both sexes,31.28,27.98
+Haiti,2010,Male,27.97,25.37
+Haiti,2010,Female,35.37,31.16
+Haiti,2000,Both sexes,57.05,50
+Haiti,2000,Male,56.97,50.48
+Haiti,2000,Female,57.18,49.6
+Honduras,2019,Both sexes,71.94,62.98
+Honduras,2019,Male,70.67,62.66
+Honduras,2019,Female,73.16,63.3
+Honduras,2015,Both sexes,69.82,61.33
+Honduras,2015,Male,67.57,60.13
+Honduras,2015,Female,72.13,62.56
+Honduras,2010,Both sexes,71.15,62.32
+Honduras,2010,Male,70.24,62.19
+Honduras,2010,Female,72.11,62.51
+Honduras,2000,Both sexes,70.04,61.22
+Honduras,2000,Male,69.1,61.08
+Honduras,2000,Female,71.02,61.44
+Hungary,2019,Both sexes,76.44,67.19
+Hungary,2019,Male,73.09,64.96
+Hungary,2019,Female,79.59,69.26
+Hungary,2015,Both sexes,75.57,66.6
+Hungary,2015,Male,72.16,64.35
+Hungary,2015,Female,78.73,68.67
+Hungary,2010,Both sexes,74.58,65.77
+Hungary,2010,Male,70.63,63.02
+Hungary,2010,Female,78.35,68.38
+Hungary,2000,Both sexes,71.34,63.03
+Hungary,2000,Male,67.07,59.97
+Hungary,2000,Female,75.63,66.11
+Iceland,2019,Both sexes,82.33,71.98
+Iceland,2019,Male,80.81,71.7
+Iceland,2019,Female,83.87,72.27
+Iceland,2015,Both sexes,82.14,71.9
+Iceland,2015,Male,80.69,71.68
+Iceland,2015,Female,83.56,72.1
+Iceland,2010,Both sexes,81.68,71.43
+Iceland,2010,Male,80.02,71.07
+Iceland,2010,Female,83.34,71.77
+Iceland,2000,Both sexes,79.7,69.82
+Iceland,2000,Male,77.74,69.28
+Iceland,2000,Female,81.64,70.34
+India,2019,Both sexes,70.79,60.33
+India,2019,Male,69.52,60.28
+India,2019,Female,72.17,60.39
+India,2015,Both sexes,69.31,59.14
+India,2015,Male,68.11,59.12
+India,2015,Female,70.62,59.16
+India,2010,Both sexes,67.23,57.32
+India,2010,Male,65.69,57.03
+India,2010,Female,68.94,57.65
+India,2000,Both sexes,62.11,52.95
+India,2000,Male,61.34,53.19
+India,2000,Female,62.92,52.68
+Indonesia,2019,Both sexes,71.31,62.83
+Indonesia,2019,Male,69.4,61.92
+Indonesia,2019,Female,73.3,63.79
+Indonesia,2015,Both sexes,70.61,62.33
+Indonesia,2015,Male,68.77,61.45
+Indonesia,2015,Female,72.5,63.24
+Indonesia,2010,Both sexes,69.26,61.21
+Indonesia,2010,Male,67.53,60.43
+Indonesia,2010,Female,71.03,62.02
+Indonesia,2000,Both sexes,67.17,59.03
+Indonesia,2000,Male,65.77,58.45
+Indonesia,2000,Female,68.55,59.6
+Iran (Islamic Republic of),2019,Both sexes,77.35,66.26
+Iran (Islamic Republic of),2019,Male,75.69,65.97
+Iran (Islamic Republic of),2019,Female,79.09,66.52
+Iran (Islamic Republic of),2015,Both sexes,76.66,65.66
+Iran (Islamic Republic of),2015,Male,74.96,65.31
+Iran (Islamic Republic of),2015,Female,78.52,66.01
+Iran (Islamic Republic of),2010,Both sexes,75.86,65.02
+Iran (Islamic Republic of),2010,Male,73.87,64.48
+Iran (Islamic Republic of),2010,Female,78.01,65.6
+Iran (Islamic Republic of),2000,Both sexes,72.56,62.56
+Iran (Islamic Republic of),2000,Male,70.73,62.06
+Iran (Islamic Republic of),2000,Female,74.61,63.12
+Iraq,2019,Both sexes,72.42,62.66
+Iraq,2019,Male,69.93,61.63
+Iraq,2019,Female,74.97,63.7
+Iraq,2015,Both sexes,70.29,60.8
+Iraq,2015,Male,67.32,59.3
+Iraq,2015,Female,73.41,62.38
+Iraq,2010,Both sexes,70.24,60.88
+Iraq,2010,Male,67.76,59.79
+Iraq,2010,Female,72.79,62
+Iraq,2000,Both sexes,68.77,59.52
+Iraq,2000,Male,66.43,58.55
+Iraq,2000,Female,71.25,60.58
+Ireland,2019,Both sexes,81.84,71.07
+Ireland,2019,Male,80.2,70.72
+Ireland,2019,Female,83.48,71.43
+Ireland,2015,Both sexes,81.14,70.66
+Ireland,2015,Male,79.33,70.16
+Ireland,2015,Female,82.93,71.16
+Ireland,2010,Both sexes,80.41,70.06
+Ireland,2010,Male,78.33,69.34
+Ireland,2010,Female,82.44,70.75
+Ireland,2000,Both sexes,76.41,67.08
+Ireland,2000,Male,73.84,65.88
+Ireland,2000,Female,79.02,68.3
+Israel,2019,Both sexes,82.62,72.38
+Israel,2019,Male,80.79,71.97
+Israel,2019,Female,84.36,72.74
+Israel,2015,Both sexes,81.93,71.84
+Israel,2015,Male,79.96,71.3
+Israel,2015,Female,83.79,72.32
+Israel,2010,Both sexes,81.56,71.42
+Israel,2010,Male,79.62,70.92
+Israel,2010,Female,83.34,71.84
+Israel,2000,Both sexes,78.57,69.21
+Israel,2000,Male,76.36,68.42
+Israel,2000,Female,80.66,69.94
+Italy,2019,Both sexes,82.97,71.92
+Italy,2019,Male,80.91,71.16
+Italy,2019,Female,84.9,72.59
+Italy,2015,Both sexes,82.21,71.56
+Italy,2015,Male,80,70.65
+Italy,2015,Female,84.26,72.36
+Italy,2010,Both sexes,81.9,71.14
+Italy,2010,Male,79.37,69.98
+Italy,2010,Female,84.22,72.19
+Italy,2000,Both sexes,79.36,69.04
+Italy,2000,Male,76.41,67.56
+Italy,2000,Female,82.15,70.39
+Jamaica,2019,Both sexes,75.98,66.55
+Jamaica,2019,Male,74.36,65.93
+Jamaica,2019,Female,77.68,67.25
+Jamaica,2015,Both sexes,75.85,66.59
+Jamaica,2015,Male,74.1,65.86
+Jamaica,2015,Female,77.71,67.42
+Jamaica,2010,Both sexes,75.77,66.56
+Jamaica,2010,Male,73.27,65.27
+Jamaica,2010,Female,78.51,68.04
+Jamaica,2000,Both sexes,74.22,65.4
+Jamaica,2000,Male,72.05,64.29
+Jamaica,2000,Female,76.5,66.6
+Japan,2019,Both sexes,84.26,74.09
+Japan,2019,Male,81.49,72.64
+Japan,2019,Female,86.94,75.48
+Japan,2015,Both sexes,83.62,73.62
+Japan,2015,Male,80.7,72.04
+Japan,2015,Female,86.41,75.11
+Japan,2010,Both sexes,82.68,72.97
+Japan,2010,Male,79.46,71.15
+Japan,2010,Female,85.77,74.7
+Japan,2000,Both sexes,81.12,71.58
+Japan,2000,Male,77.69,69.46
+Japan,2000,Female,84.37,73.54
+Jordan,2019,Both sexes,77.87,67.6
+Jordan,2019,Male,77.02,68.05
+Jordan,2019,Female,78.78,67.17
+Jordan,2015,Both sexes,77.82,67.59
+Jordan,2015,Male,76.95,68.04
+Jordan,2015,Female,78.77,67.17
+Jordan,2010,Both sexes,76.59,66.67
+Jordan,2010,Male,75.59,67.11
+Jordan,2010,Female,77.62,66.22
+Jordan,2000,Both sexes,72.65,63.56
+Jordan,2000,Male,73.06,64.95
+Jordan,2000,Female,72.48,62.27
+Kazakhstan,2019,Both sexes,73.95,64.99
+Kazakhstan,2019,Male,69.98,62.37
+Kazakhstan,2019,Female,77.61,67.39
+Kazakhstan,2015,Both sexes,71.91,63.35
+Kazakhstan,2015,Male,67.43,60.31
+Kazakhstan,2015,Female,76.22,66.27
+Kazakhstan,2010,Both sexes,68.43,60.45
+Kazakhstan,2010,Male,63.58,56.96
+Kazakhstan,2010,Female,73.39,64.01
+Kazakhstan,2000,Both sexes,63.15,56.1
+Kazakhstan,2000,Male,57.58,51.98
+Kazakhstan,2000,Female,69.15,60.54
+Kenya,2019,Both sexes,66.09,57.68
+Kenya,2019,Male,63.7,56.41
+Kenya,2019,Female,68.44,58.93
+Kenya,2015,Both sexes,64.17,56.08
+Kenya,2015,Male,61.71,54.76
+Kenya,2015,Female,66.62,57.4
+Kenya,2010,Both sexes,61.18,53.53
+Kenya,2010,Male,59.23,52.61
+Kenya,2010,Female,63.07,54.42
+Kenya,2000,Both sexes,53.87,46.94
+Kenya,2000,Male,52.85,46.65
+Kenya,2000,Female,54.91,47.25
+Kiribati,2019,Both sexes,59.42,52.62
+Kiribati,2019,Male,56.14,50.45
+Kiribati,2019,Female,62.8,54.85
+Kiribati,2015,Both sexes,58.2,51.62
+Kiribati,2015,Male,55.13,49.62
+Kiribati,2015,Female,61.37,53.7
+Kiribati,2010,Both sexes,58.01,51.53
+Kiribati,2010,Male,54.75,49.35
+Kiribati,2010,Female,61.39,53.81
+Kiribati,2000,Both sexes,55.73,49.57
+Kiribati,2000,Male,52.31,47.13
+Kiribati,2000,Female,59.4,52.18
+Kuwait,2019,Both sexes,80.97,70.09
+Kuwait,2019,Male,79.25,69.51
+Kuwait,2019,Female,83.95,71.09
+Kuwait,2015,Both sexes,81.13,70.23
+Kuwait,2015,Male,79.46,69.74
+Kuwait,2015,Female,83.84,71.04
+Kuwait,2010,Both sexes,79.83,69.21
+Kuwait,2010,Male,78.76,69.17
+Kuwait,2010,Female,81.43,69.21
+Kuwait,2000,Both sexes,77.86,67.7
+Kuwait,2000,Male,76.36,67.38
+Kuwait,2000,Female,80.1,68.02
+Kyrgyzstan,2019,Both sexes,74.18,65.78
+Kyrgyzstan,2019,Male,70.75,63.61
+Kyrgyzstan,2019,Female,77.31,67.73
+Kyrgyzstan,2015,Both sexes,71.59,63.74
+Kyrgyzstan,2015,Male,67.92,61.32
+Kyrgyzstan,2015,Female,75.28,66.16
+Kyrgyzstan,2010,Both sexes,69.17,61.64
+Kyrgyzstan,2010,Male,65.2,58.89
+Kyrgyzstan,2010,Female,73.29,64.49
+Kyrgyzstan,2000,Both sexes,65.95,58.66
+Kyrgyzstan,2000,Male,61.95,55.8
+Kyrgyzstan,2000,Female,70.18,61.68
+Lao People's Democratic Republic,2019,Both sexes,68.51,60.51
+Lao People's Democratic Republic,2019,Male,66.19,59.2
+Lao People's Democratic Republic,2019,Female,70.95,61.89
+Lao People's Democratic Republic,2015,Both sexes,67.08,59.29
+Lao People's Democratic Republic,2015,Male,64.7,57.91
+Lao People's Democratic Republic,2015,Female,69.56,60.73
+Lao People's Democratic Republic,2010,Both sexes,64.88,57.43
+Lao People's Democratic Republic,2010,Male,62.44,56
+Lao People's Democratic Republic,2010,Female,67.38,58.9
+Lao People's Democratic Republic,2000,Both sexes,58.41,51.77
+Lao People's Democratic Republic,2000,Male,56.28,50.5
+Lao People's Democratic Republic,2000,Female,60.6,53.09
+Latvia,2019,Both sexes,75.38,66.25
+Latvia,2019,Male,70.58,62.91
+Latvia,2019,Female,79.84,69.34
+Latvia,2015,Both sexes,74.8,65.76
+Latvia,2015,Male,69.93,62.33
+Latvia,2015,Female,79.29,68.9
+Latvia,2010,Both sexes,72.94,64.26
+Latvia,2010,Male,67.76,60.54
+Latvia,2010,Female,77.78,67.73
+Latvia,2000,Both sexes,70.18,61.57
+Latvia,2000,Male,64.61,57.36
+Latvia,2000,Female,75.56,65.64
+Lebanon,2019,Both sexes,76.44,65.96
+Lebanon,2019,Male,74.03,65.06
+Lebanon,2019,Female,79.15,67.05
+Lebanon,2015,Both sexes,75.98,65.67
+Lebanon,2015,Male,73.47,64.69
+Lebanon,2015,Female,78.82,66.82
+Lebanon,2010,Both sexes,75.53,65.4
+Lebanon,2010,Male,73.26,64.6
+Lebanon,2010,Female,78.12,66.33
+Lebanon,2000,Both sexes,74.61,64.66
+Lebanon,2000,Male,73.03,64.4
+Lebanon,2000,Female,76.14,64.92
+Lesotho,2019,Both sexes,50.75,44.24
+Lesotho,2019,Male,47.66,42.31
+Lesotho,2019,Female,54.24,46.42
+Lesotho,2015,Both sexes,47.67,41.64
+Lesotho,2015,Male,45.07,40.06
+Lesotho,2015,Female,50.58,43.42
+Lesotho,2010,Both sexes,47.38,41.46
+Lesotho,2010,Male,44.5,39.63
+Lesotho,2010,Female,50.69,43.61
+Lesotho,2000,Both sexes,47.82,41.98
+Lesotho,2000,Male,45.53,40.71
+Lesotho,2000,Female,50.68,43.73
+Liberia,2019,Both sexes,64.08,54.91
+Liberia,2019,Male,63.15,54.86
+Liberia,2019,Female,65,54.98
+Liberia,2015,Both sexes,61.17,52.47
+Liberia,2015,Male,60.65,52.74
+Liberia,2015,Female,61.68,52.22
+Liberia,2010,Both sexes,60.7,52.05
+Liberia,2010,Male,60.07,52.3
+Liberia,2010,Female,61.32,51.83
+Liberia,2000,Both sexes,53.77,45.82
+Liberia,2000,Male,52.89,45.7
+Liberia,2000,Female,54.67,45.98
+Libya,2019,Both sexes,75.78,65.22
+Libya,2019,Male,74.21,64.91
+Libya,2019,Female,77.34,65.5
+Libya,2015,Both sexes,74.6,64.35
+Libya,2015,Male,72.39,63.49
+Libya,2015,Female,76.9,65.24
+Libya,2010,Both sexes,76.04,65.68
+Libya,2010,Male,74.79,65.61
+Libya,2010,Female,77.3,65.73
+Libya,2000,Both sexes,74.4,64.59
+Libya,2000,Male,72.7,64.19
+Libya,2000,Female,76.28,64.99
+Lithuania,2019,Both sexes,75.99,66.69
+Lithuania,2019,Male,71.23,63.45
+Lithuania,2019,Female,80.43,69.68
+Lithuania,2015,Both sexes,74.38,65.28
+Lithuania,2015,Male,69.09,61.64
+Lithuania,2015,Female,79.47,68.78
+Lithuania,2010,Both sexes,73.14,64.25
+Lithuania,2010,Male,67.49,60.24
+Lithuania,2010,Female,78.67,68.17
+Lithuania,2000,Both sexes,72.04,63.12
+Lithuania,2000,Male,66.68,59.21
+Lithuania,2000,Female,77.23,66.91
+Luxembourg,2019,Both sexes,82.41,71.55
+Luxembourg,2019,Male,80.62,71.12
+Luxembourg,2019,Female,84.2,71.96
+Luxembourg,2015,Both sexes,82.31,71.53
+Luxembourg,2015,Male,80.26,70.87
+Luxembourg,2015,Female,84.29,72.13
+Luxembourg,2010,Both sexes,80.94,70.48
+Luxembourg,2010,Male,78.61,69.59
+Luxembourg,2010,Female,83.1,71.26
+Luxembourg,2000,Both sexes,78.24,68.34
+Luxembourg,2000,Male,75.15,66.77
+Luxembourg,2000,Female,81.11,69.75
+Madagascar,2019,Both sexes,65.35,57.31
+Madagascar,2019,Male,64.1,56.88
+Madagascar,2019,Female,66.6,57.74
+Madagascar,2015,Both sexes,64.19,56.3
+Madagascar,2015,Male,62.87,55.84
+Madagascar,2015,Female,65.5,56.77
+Madagascar,2010,Both sexes,62.79,55.08
+Madagascar,2010,Male,61.43,54.55
+Madagascar,2010,Female,64.17,55.62
+Madagascar,2000,Both sexes,58.82,51.32
+Madagascar,2000,Male,57.54,50.71
+Madagascar,2000,Female,60.18,51.98
+Malawi,2019,Both sexes,65.62,57.06
+Malawi,2019,Male,62.31,55.09
+Malawi,2019,Female,68.93,59.02
+Malawi,2015,Both sexes,63.04,54.89
+Malawi,2015,Male,59.67,52.84
+Malawi,2015,Female,66.47,56.98
+Malawi,2010,Both sexes,56.8,49.59
+Malawi,2010,Male,54.38,48.29
+Malawi,2010,Female,59.24,50.93
+Malawi,2000,Both sexes,44.73,39.07
+Malawi,2000,Male,43.96,38.91
+Malawi,2000,Female,45.59,39.31
+Malaysia,2019,Both sexes,74.72,65.66
+Malaysia,2019,Male,72.61,64.5
+Malaysia,2019,Female,77.08,66.94
+Malaysia,2015,Both sexes,74.95,65.78
+Malaysia,2015,Male,73.01,64.74
+Malaysia,2015,Female,77.13,66.96
+Malaysia,2010,Both sexes,74.25,65.38
+Malaysia,2010,Male,72.25,64.27
+Malaysia,2010,Female,76.52,66.63
+Malaysia,2000,Both sexes,72.8,63.99
+Malaysia,2000,Male,70.55,62.61
+Malaysia,2000,Female,75.31,65.53
+Maldives,2019,Both sexes,79.59,69.95
+Maldives,2019,Male,78.63,69.73
+Maldives,2019,Female,80.76,70.03
+Maldives,2015,Both sexes,78.41,69.11
+Maldives,2015,Male,77.56,68.96
+Maldives,2015,Female,79.47,69.15
+Maldives,2010,Both sexes,76.99,67.97
+Maldives,2010,Male,76.02,67.83
+Maldives,2010,Female,78.17,68.1
+Maldives,2000,Both sexes,70.96,62.39
+Maldives,2000,Male,70.42,62.41
+Maldives,2000,Female,71.48,62.34
+Mali,2019,Both sexes,62.8,54.63
+Mali,2019,Male,62.2,54.83
+Mali,2019,Female,63.4,54.46
+Mali,2015,Both sexes,60.89,52.98
+Mali,2015,Male,60.36,53.26
+Mali,2015,Female,61.41,52.74
+Mali,2010,Both sexes,59.05,51.34
+Mali,2010,Male,58.59,51.59
+Mali,2010,Female,59.49,51.13
+Mali,2000,Both sexes,52.64,45.61
+Mali,2000,Male,52.61,46.04
+Mali,2000,Female,52.75,45.3
+Malta,2019,Both sexes,81.89,71.46
+Malta,2019,Male,79.94,70.91
+Malta,2019,Female,83.8,71.94
+Malta,2015,Both sexes,81.65,71.32
+Malta,2015,Male,79.63,70.71
+Malta,2015,Female,83.58,71.84
+Malta,2010,Both sexes,80.45,70.41
+Malta,2010,Male,78.23,69.58
+Malta,2010,Female,82.54,71.13
+Malta,2000,Both sexes,77.87,68.53
+Malta,2000,Male,75.53,67.58
+Malta,2000,Female,80.1,69.39
+Mauritania,2019,Both sexes,68.38,59.76
+Mauritania,2019,Male,68.08,60.16
+Mauritania,2019,Female,68.73,59.44
+Mauritania,2015,Both sexes,67.41,58.95
+Mauritania,2015,Male,67.19,59.41
+Mauritania,2015,Female,67.69,58.57
+Mauritania,2010,Both sexes,65.59,57.42
+Mauritania,2010,Male,65.4,57.88
+Mauritania,2010,Female,65.87,57.06
+Mauritania,2000,Both sexes,61.96,54.36
+Mauritania,2000,Male,61.75,54.81
+Mauritania,2000,Female,62.23,54.01
+Mauritius,2019,Both sexes,74.07,63.94
+Mauritius,2019,Male,70.95,62.01
+Mauritius,2019,Female,77.32,65.95
+Mauritius,2015,Both sexes,74.14,64.03
+Mauritius,2015,Male,70.96,62.05
+Mauritius,2015,Female,77.43,66.09
+Mauritius,2010,Both sexes,73.24,63.37
+Mauritius,2010,Male,69.84,61.27
+Mauritius,2010,Female,76.8,65.58
+Mauritius,2000,Both sexes,71.17,61.94
+Mauritius,2000,Male,67.74,59.84
+Mauritius,2000,Female,74.8,64.16
+Mexico,2019,Both sexes,76.01,65.76
+Mexico,2019,Male,73.13,64.28
+Mexico,2019,Female,78.86,67.23
+Mexico,2015,Both sexes,75.87,65.76
+Mexico,2015,Male,73.09,64.34
+Mexico,2015,Female,78.61,67.17
+Mexico,2010,Both sexes,75.13,65.13
+Mexico,2010,Male,72.23,63.6
+Mexico,2010,Female,78.01,66.64
+Mexico,2000,Both sexes,74.41,64.55
+Mexico,2000,Male,71.68,63.27
+Mexico,2000,Female,77.12,65.82
+Micronesia (Federated States of),2019,Both sexes,63.03,55.98
+Micronesia (Federated States of),2019,Male,60.35,54.4
+Micronesia (Federated States of),2019,Female,66.05,57.76
+Micronesia (Federated States of),2015,Both sexes,62.74,55.8
+Micronesia (Federated States of),2015,Male,60.14,54.28
+Micronesia (Federated States of),2015,Female,65.66,57.51
+Micronesia (Federated States of),2010,Both sexes,62.67,55.76
+Micronesia (Federated States of),2010,Male,60.01,54.22
+Micronesia (Federated States of),2010,Female,65.61,57.46
+Micronesia (Federated States of),2000,Both sexes,61.19,54.5
+Micronesia (Federated States of),2000,Male,58.45,52.9
+Micronesia (Federated States of),2000,Female,64.2,56.25
+Mongolia,2019,Both sexes,68.1,60.29
+Mongolia,2019,Male,63.82,57.06
+Mongolia,2019,Female,72.76,63.8
+Mongolia,2015,Both sexes,67.61,59.85
+Mongolia,2015,Male,63.45,56.72
+Mongolia,2015,Female,72.13,63.25
+Mongolia,2010,Both sexes,65.05,57.77
+Mongolia,2010,Male,61.09,54.76
+Mongolia,2010,Female,69.47,61.11
+Mongolia,2000,Both sexes,60.52,53.82
+Mongolia,2000,Male,57.34,51.53
+Mongolia,2000,Female,64.11,56.41
+Montenegro,2019,Both sexes,75.88,66.97
+Montenegro,2019,Male,73.15,65.24
+Montenegro,2019,Female,78.65,68.74
+Montenegro,2015,Both sexes,75.27,66.64
+Montenegro,2015,Male,72.83,65.1
+Montenegro,2015,Female,77.73,68.18
+Montenegro,2010,Both sexes,74.69,66.17
+Montenegro,2010,Male,72.27,64.58
+Montenegro,2010,Female,77.12,67.76
+Montenegro,2000,Both sexes,73.56,65.17
+Montenegro,2000,Male,70.88,63.32
+Montenegro,2000,Female,76.27,67.03
+Morocco,2019,Both sexes,72.99,63.69
+Morocco,2019,Male,71.68,63.72
+Morocco,2019,Female,74.31,63.7
+Morocco,2015,Both sexes,72.46,63.29
+Morocco,2015,Male,71.37,63.48
+Morocco,2015,Female,73.55,63.14
+Morocco,2010,Both sexes,71.6,62.53
+Morocco,2010,Male,71.07,63.1
+Morocco,2010,Female,72.27,62.12
+Morocco,2000,Both sexes,69.35,60.69
+Morocco,2000,Male,68.06,60.67
+Morocco,2000,Female,70.59,60.72
+Mozambique,2019,Both sexes,58.14,50.36
+Mozambique,2019,Male,54.46,47.9
+Mozambique,2019,Female,61.73,52.76
+Mozambique,2015,Both sexes,55.95,48.6
+Mozambique,2015,Male,52.42,46.23
+Mozambique,2015,Female,59.45,50.95
+Mozambique,2010,Both sexes,53.48,46.46
+Mozambique,2010,Male,50.66,44.61
+Mozambique,2010,Female,56.29,48.32
+Mozambique,2000,Both sexes,50.69,43.58
+Mozambique,2000,Male,48.37,42.12
+Mozambique,2000,Female,53.05,45.11
+Myanmar,2019,Both sexes,69.13,60.85
+Myanmar,2019,Male,65.91,58.83
+Myanmar,2019,Female,72.2,62.77
+Myanmar,2015,Both sexes,67.58,59.56
+Myanmar,2015,Male,64.32,57.51
+Myanmar,2015,Female,70.7,61.54
+Myanmar,2010,Both sexes,64.79,57.2
+Myanmar,2010,Male,61.62,55.2
+Myanmar,2010,Female,67.87,59.15
+Myanmar,2000,Both sexes,59.99,52.95
+Myanmar,2000,Male,57.31,51.16
+Myanmar,2000,Female,62.67,54.74
+Namibia,2019,Both sexes,64.58,56.06
+Namibia,2019,Male,60.58,53.4
+Namibia,2019,Female,68.45,58.62
+Namibia,2015,Both sexes,62.87,54.57
+Namibia,2015,Male,59.36,52.29
+Namibia,2015,Female,66.22,56.73
+Namibia,2010,Both sexes,60.94,52.94
+Namibia,2010,Male,57.25,50.52
+Namibia,2010,Female,64.66,55.4
+Namibia,2000,Both sexes,53.32,46.6
+Namibia,2000,Male,51.01,45.25
+Namibia,2000,Female,55.5,47.89
+Nepal,2019,Both sexes,70.88,61.34
+Nepal,2019,Male,68.88,60.63
+Nepal,2019,Female,72.75,62.08
+Nepal,2015,Both sexes,69.43,60.17
+Nepal,2015,Male,67.32,59.29
+Nepal,2015,Female,71.39,61.05
+Nepal,2010,Both sexes,69.18,59.95
+Nepal,2010,Male,67.52,59.39
+Nepal,2010,Female,70.92,60.55
+Nepal,2000,Both sexes,65.26,56.25
+Nepal,2000,Male,63.87,55.8
+Nepal,2000,Female,66.57,56.67
+Netherlands,2019,Both sexes,81.79,71.44
+Netherlands,2019,Male,80.4,71.35
+Netherlands,2019,Female,83.15,71.5
+Netherlands,2015,Both sexes,81.28,71.12
+Netherlands,2015,Male,79.67,70.87
+Netherlands,2015,Female,82.82,71.33
+Netherlands,2010,Both sexes,80.68,70.9
+Netherlands,2010,Male,78.74,70.33
+Netherlands,2010,Female,82.5,71.39
+Netherlands,2000,Both sexes,78.01,68.77
+Netherlands,2000,Male,75.49,67.66
+Netherlands,2000,Female,80.39,69.75
+New Zealand,2019,Both sexes,81.96,70.24
+New Zealand,2019,Male,80.36,69.64
+New Zealand,2019,Female,83.52,70.82
+New Zealand,2015,Both sexes,81.31,69.89
+New Zealand,2015,Male,79.73,69.26
+New Zealand,2015,Female,82.85,70.52
+New Zealand,2010,Both sexes,80.94,69.78
+New Zealand,2010,Male,79.12,68.99
+New Zealand,2010,Female,82.71,70.57
+New Zealand,2000,Both sexes,78.57,67.8
+New Zealand,2000,Male,76,66.4
+New Zealand,2000,Female,81.06,69.16
+Nicaragua,2019,Both sexes,75.04,65.46
+Nicaragua,2019,Male,72.07,63.66
+Nicaragua,2019,Female,77.93,67.21
+Nicaragua,2015,Both sexes,74.62,65.16
+Nicaragua,2015,Male,71.83,63.45
+Nicaragua,2015,Female,77.32,66.82
+Nicaragua,2010,Both sexes,74.05,64.7
+Nicaragua,2010,Male,71.38,63.05
+Nicaragua,2010,Female,76.66,66.32
+Nicaragua,2000,Both sexes,73.26,63.69
+Nicaragua,2000,Male,70.77,62.19
+Nicaragua,2000,Female,75.67,65.15
+Niger,2019,Both sexes,63.29,55.52
+Niger,2019,Male,62.06,55.28
+Niger,2019,Female,64.56,55.81
+Niger,2015,Both sexes,61.54,54.14
+Niger,2015,Male,60.28,53.84
+Niger,2015,Female,62.86,54.5
+Niger,2010,Both sexes,58.95,51.86
+Niger,2010,Male,57.77,51.56
+Niger,2010,Female,60.19,52.21
+Niger,2000,Both sexes,50.35,44.18
+Niger,2000,Male,49.73,44.2
+Niger,2000,Female,50.99,44.19
+Nigeria,2019,Both sexes,62.62,54.39
+Nigeria,2019,Male,61.2,53.91
+Nigeria,2019,Female,64.1,54.89
+Nigeria,2015,Both sexes,61.16,53.13
+Nigeria,2015,Male,59.59,52.49
+Nigeria,2015,Female,62.8,53.79
+Nigeria,2010,Both sexes,59.24,51.5
+Nigeria,2010,Male,57.75,50.95
+Nigeria,2010,Female,60.79,52.09
+Nigeria,2000,Both sexes,53.63,46.46
+Nigeria,2000,Male,52.16,45.76
+Nigeria,2000,Female,55.17,47.19
+Norway,2019,Both sexes,82.62,71.36
+Norway,2019,Male,81.08,71.05
+Norway,2019,Female,84.13,71.64
+Norway,2015,Both sexes,82.01,71.23
+Norway,2015,Male,80.26,70.55
+Norway,2015,Female,83.71,71.86
+Norway,2010,Both sexes,80.87,70.18
+Norway,2010,Male,78.83,69.27
+Norway,2010,Female,82.85,71.03
+Norway,2000,Both sexes,78.53,68.43
+Norway,2000,Male,75.86,67
+Norway,2000,Female,81.15,69.81
+Oman,2019,Both sexes,73.9,64.68
+Oman,2019,Male,72.97,64.51
+Oman,2019,Female,75.26,64.51
+Oman,2015,Both sexes,72.52,63.75
+Oman,2015,Male,71.4,63.42
+Oman,2015,Female,74.09,63.78
+Oman,2010,Both sexes,70.36,62.04
+Oman,2010,Male,68.97,61.54
+Oman,2010,Female,72.55,62.65
+Oman,2000,Both sexes,69.07,60.94
+Oman,2000,Male,67.26,60.15
+Oman,2000,Female,71.53,61.88
+Pakistan,2019,Both sexes,65.61,56.87
+Pakistan,2019,Male,64.59,56.91
+Pakistan,2019,Female,66.72,56.83
+Pakistan,2015,Both sexes,64.18,55.78
+Pakistan,2015,Male,63.12,55.78
+Pakistan,2015,Female,65.36,55.8
+Pakistan,2010,Both sexes,62.64,54.49
+Pakistan,2010,Male,61.53,54.45
+Pakistan,2010,Female,63.9,54.54
+Pakistan,2000,Both sexes,60.08,52.35
+Pakistan,2000,Male,59.32,52.58
+Pakistan,2000,Female,60.99,52.13
+Panama,2019,Both sexes,79.29,68.68
+Panama,2019,Male,76.65,67.39
+Panama,2019,Female,82.06,70.04
+Panama,2015,Both sexes,78.72,68.28
+Panama,2015,Male,76.17,67.02
+Panama,2015,Female,81.38,69.61
+Panama,2010,Both sexes,77.53,67.47
+Panama,2010,Male,74.63,65.92
+Panama,2010,Female,80.65,69.15
+Panama,2000,Both sexes,77.23,67.2
+Panama,2000,Male,74.6,65.91
+Panama,2000,Female,80.08,68.6
+Papua New Guinea,2019,Both sexes,65.3,57.08
+Papua New Guinea,2019,Male,63.4,56.16
+Papua New Guinea,2019,Female,67.36,58.06
+Papua New Guinea,2015,Both sexes,64.49,56.42
+Papua New Guinea,2015,Male,62.57,55.51
+Papua New Guinea,2015,Female,66.54,57.4
+Papua New Guinea,2010,Both sexes,63.42,55.43
+Papua New Guinea,2010,Male,61.52,54.5
+Papua New Guinea,2010,Female,65.4,56.39
+Papua New Guinea,2000,Both sexes,63.29,55.28
+Papua New Guinea,2000,Male,61.12,54.14
+Papua New Guinea,2000,Female,65.57,56.48
+Paraguay,2019,Both sexes,75.81,65.8
+Paraguay,2019,Male,73.08,64.45
+Paraguay,2019,Female,78.85,67.32
+Paraguay,2015,Both sexes,75.56,65.63
+Paraguay,2015,Male,72.83,64.34
+Paraguay,2015,Female,78.6,67.08
+Paraguay,2010,Both sexes,74.99,65.23
+Paraguay,2010,Male,72.47,64.08
+Paraguay,2010,Female,77.73,66.48
+Paraguay,2000,Both sexes,74.8,65
+Paraguay,2000,Male,72.57,64.05
+Paraguay,2000,Female,77.14,65.98
+Peru,2019,Both sexes,79.9,69.5
+Peru,2019,Male,78.46,69.21
+Peru,2019,Female,81.34,69.78
+Peru,2015,Both sexes,79.08,68.85
+Peru,2015,Male,77.55,68.48
+Peru,2015,Female,80.56,69.21
+Peru,2010,Both sexes,77.28,67.48
+Peru,2010,Male,75.61,67.02
+Peru,2010,Female,78.91,67.93
+Peru,2000,Both sexes,74.42,64.9
+Peru,2000,Male,72.86,64.57
+Peru,2000,Female,75.94,65.26
+Philippines,2019,Both sexes,70.43,62
+Philippines,2019,Male,67.4,60.14
+Philippines,2019,Female,73.6,63.94
+Philippines,2015,Both sexes,70.3,61.91
+Philippines,2015,Male,67.13,59.94
+Philippines,2015,Female,73.66,64.01
+Philippines,2010,Both sexes,69.96,61.57
+Philippines,2010,Male,66.63,59.5
+Philippines,2010,Female,73.52,63.79
+Philippines,2000,Both sexes,69.03,60.58
+Philippines,2000,Male,65.47,58.22
+Philippines,2000,Female,72.87,63.11
+Poland,2019,Both sexes,78.27,68.66
+Poland,2019,Male,74.53,65.94
+Poland,2019,Female,81.93,71.33
+Poland,2015,Both sexes,77.29,68.03
+Poland,2015,Male,73.36,65.12
+Poland,2015,Female,81.15,70.89
+Poland,2010,Both sexes,76.25,67.13
+Poland,2010,Male,72.08,64.04
+Poland,2010,Female,80.37,70.17
+Poland,2000,Both sexes,73.7,65
+Poland,2000,Male,69.51,61.9
+Poland,2000,Female,77.88,68.09
+Portugal,2019,Both sexes,81.57,70.96
+Portugal,2019,Male,78.56,69.57
+Portugal,2019,Female,84.4,72.25
+Portugal,2015,Both sexes,80.89,70.49
+Portugal,2015,Male,77.92,69.05
+Portugal,2015,Female,83.67,71.83
+Portugal,2010,Both sexes,79.73,69.34
+Portugal,2010,Male,76.59,67.84
+Portugal,2010,Female,82.74,70.76
+Portugal,2000,Both sexes,76.58,66.83
+Portugal,2000,Male,73.07,64.96
+Portugal,2000,Female,80.07,68.68
+Qatar,2019,Both sexes,77.17,67.06
+Qatar,2019,Male,78.03,68.11
+Qatar,2019,Female,76.63,65.06
+Qatar,2015,Both sexes,76.41,66.44
+Qatar,2015,Male,77.17,67.43
+Qatar,2015,Female,75.93,64.53
+Qatar,2010,Both sexes,74.08,64.72
+Qatar,2010,Male,74.97,65.76
+Qatar,2010,Female,73.87,63.11
+Qatar,2000,Both sexes,71.29,62.45
+Qatar,2000,Male,71.11,62.84
+Qatar,2000,Female,71.74,61.43
+Republic of Korea,2019,Both sexes,83.3,73.06
+Republic of Korea,2019,Male,80.32,71.32
+Republic of Korea,2019,Female,86.09,74.66
+Republic of Korea,2015,Both sexes,82.2,72.03
+Republic of Korea,2015,Male,79.03,70.17
+Republic of Korea,2015,Female,85.12,73.73
+Republic of Korea,2010,Both sexes,80.58,70.88
+Republic of Korea,2010,Male,77.12,68.7
+Republic of Korea,2010,Female,83.78,72.88
+Republic of Korea,2000,Both sexes,76.21,67.36
+Republic of Korea,2000,Male,72.49,64.93
+Republic of Korea,2000,Female,79.76,69.67
+Republic of Moldova,2019,Both sexes,73.26,64.54
+Republic of Moldova,2019,Male,69.26,61.88
+Republic of Moldova,2019,Female,77.12,67.09
+Republic of Moldova,2015,Both sexes,71.13,62.86
+Republic of Moldova,2015,Male,67.19,60.2
+Republic of Moldova,2015,Female,75.05,65.5
+Republic of Moldova,2010,Both sexes,68.81,61.04
+Republic of Moldova,2010,Male,64.62,58.13
+Republic of Moldova,2010,Female,73.11,64.02
+Republic of Moldova,2000,Both sexes,66.87,59.26
+Republic of Moldova,2000,Male,63.15,56.65
+Republic of Moldova,2000,Female,70.53,61.82
+The former Yugoslav Republic of Macedonia,2019,Both sexes,74.82,66.14
+The former Yugoslav Republic of Macedonia,2019,Male,72.84,65.05
+The former Yugoslav Republic of Macedonia,2019,Female,76.87,67.27
+The former Yugoslav Republic of Macedonia,2015,Both sexes,73.73,65.33
+The former Yugoslav Republic of Macedonia,2015,Male,71.67,64.16
+The former Yugoslav Republic of Macedonia,2015,Female,75.87,66.54
+The former Yugoslav Republic of Macedonia,2010,Both sexes,73.11,64.86
+The former Yugoslav Republic of Macedonia,2010,Male,70.92,63.56
+The former Yugoslav Republic of Macedonia,2010,Female,75.4,66.21
+The former Yugoslav Republic of Macedonia,2000,Both sexes,71.11,63.19
+The former Yugoslav Republic of Macedonia,2000,Male,68.86,61.82
+The former Yugoslav Republic of Macedonia,2000,Female,73.48,64.63
+Romania,2019,Both sexes,75.57,66.85
+Romania,2019,Male,71.95,64.3
+Romania,2019,Female,79.26,69.44
+Romania,2015,Both sexes,74.82,66.28
+Romania,2015,Male,71.28,63.76
+Romania,2015,Female,78.42,68.83
+Romania,2010,Both sexes,73.7,65.43
+Romania,2010,Male,70.07,62.81
+Romania,2010,Female,77.43,68.12
+Romania,2000,Both sexes,71.39,63.27
+Romania,2000,Male,67.98,60.72
+Romania,2000,Female,74.92,65.91
+Russian Federation,2019,Both sexes,73.23,64.21
+Russian Federation,2019,Male,68.18,60.7
+Russian Federation,2019,Female,78,67.53
+Russian Federation,2015,Both sexes,71.3,62.67
+Russian Federation,2015,Male,65.85,58.77
+Russian Federation,2015,Female,76.6,66.46
+Russian Federation,2010,Both sexes,68.76,60.48
+Russian Federation,2010,Male,62.94,56.16
+Russian Federation,2010,Female,74.72,64.9
+Russian Federation,2000,Both sexes,65.29,57.34
+Russian Federation,2000,Male,59.02,52.42
+Russian Federation,2000,Female,72.25,62.78
+Rwanda,2019,Both sexes,69.1,60.21
+Rwanda,2019,Male,66.88,58.96
+Rwanda,2019,Female,71.24,61.41
+Rwanda,2015,Both sexes,67.69,58.87
+Rwanda,2015,Male,65.47,57.61
+Rwanda,2015,Female,69.82,60.07
+Rwanda,2010,Both sexes,64.44,55.93
+Rwanda,2010,Male,62.31,54.75
+Rwanda,2010,Female,66.51,57.07
+Rwanda,2000,Both sexes,47.51,41.19
+Rwanda,2000,Male,45.88,40.39
+Rwanda,2000,Female,49.19,42.04
+Saint Lucia,2019,Both sexes,74.33,64.7
+Saint Lucia,2019,Male,71.3,63.01
+Saint Lucia,2019,Female,77.71,66.63
+Saint Lucia,2015,Both sexes,75.01,65.25
+Saint Lucia,2015,Male,71.82,63.38
+Saint Lucia,2015,Female,78.52,67.34
+Saint Lucia,2010,Both sexes,75.2,65.45
+Saint Lucia,2010,Male,71.86,63.45
+Saint Lucia,2010,Female,78.87,67.68
+Saint Lucia,2000,Both sexes,73.21,64.01
+Saint Lucia,2000,Male,70.31,62.37
+Saint Lucia,2000,Female,76.32,65.79
+Saint Vincent and the Grenadines,2019,Both sexes,73.22,63.97
+Saint Vincent and the Grenadines,2019,Male,71.32,62.93
+Saint Vincent and the Grenadines,2019,Female,75.32,65.14
+Saint Vincent and the Grenadines,2015,Both sexes,72.47,63.51
+Saint Vincent and the Grenadines,2015,Male,70.3,62.25
+Saint Vincent and the Grenadines,2015,Female,74.91,64.95
+Saint Vincent and the Grenadines,2010,Both sexes,72.85,63.97
+Saint Vincent and the Grenadines,2010,Male,70.92,62.9
+Saint Vincent and the Grenadines,2010,Female,74.99,65.15
+Saint Vincent and the Grenadines,2000,Both sexes,70.61,62.23
+Saint Vincent and the Grenadines,2000,Male,68.51,61.09
+Saint Vincent and the Grenadines,2000,Female,72.81,63.42
+Samoa,2019,Both sexes,70.45,62.13
+Samoa,2019,Male,69.16,61.79
+Samoa,2019,Female,71.85,62.51
+Samoa,2015,Both sexes,70.04,61.9
+Samoa,2015,Male,68.68,61.5
+Samoa,2015,Female,71.49,62.33
+Samoa,2010,Both sexes,69.57,61.54
+Samoa,2010,Male,68.08,61.04
+Samoa,2010,Female,71.16,62.07
+Samoa,2000,Both sexes,68.51,60.73
+Samoa,2000,Male,66.46,59.68
+Samoa,2000,Female,70.78,61.91
+Sao Tome and Principe,2019,Both sexes,70.42,61.6
+Sao Tome and Principe,2019,Male,68.79,60.94
+Sao Tome and Principe,2019,Female,71.99,62.21
+Sao Tome and Principe,2015,Both sexes,69.6,60.95
+Sao Tome and Principe,2015,Male,68.05,60.37
+Sao Tome and Principe,2015,Female,71.12,61.5
+Sao Tome and Principe,2010,Both sexes,68.24,59.76
+Sao Tome and Principe,2010,Male,66.89,59.31
+Sao Tome and Principe,2010,Female,69.55,60.19
+Sao Tome and Principe,2000,Both sexes,63.45,55.55
+Sao Tome and Principe,2000,Male,62.55,55.47
+Sao Tome and Principe,2000,Female,64.31,55.66
+Saudi Arabia,2019,Both sexes,74.31,64.02
+Saudi Arabia,2019,Male,73.11,63.78
+Saudi Arabia,2019,Female,76.15,64.36
+Saudi Arabia,2015,Both sexes,73.15,63.2
+Saudi Arabia,2015,Male,71.73,62.8
+Saudi Arabia,2015,Female,75.25,63.77
+Saudi Arabia,2010,Both sexes,71.76,62.19
+Saudi Arabia,2010,Male,70.39,61.86
+Saudi Arabia,2010,Female,73.67,62.58
+Saudi Arabia,2000,Both sexes,70.52,61.18
+Saudi Arabia,2000,Male,69.59,61.24
+Saudi Arabia,2000,Female,71.62,61
+Senegal,2019,Both sexes,68.58,59.37
+Senegal,2019,Male,66.82,58.79
+Senegal,2019,Female,70.14,59.9
+Senegal,2015,Both sexes,67.2,58.17
+Senegal,2015,Male,65.46,57.62
+Senegal,2015,Female,68.77,58.7
+Senegal,2010,Both sexes,65.47,56.65
+Senegal,2010,Male,63.67,56.01
+Senegal,2010,Female,67.15,57.29
+Senegal,2000,Both sexes,58.6,50.76
+Senegal,2000,Male,56.87,50.06
+Senegal,2000,Female,60.32,51.5
+Serbia,2019,Both sexes,75.87,66.88
+Serbia,2019,Male,73.46,65.36
+Serbia,2019,Female,78.28,68.39
+Serbia,2015,Both sexes,75.21,66.44
+Serbia,2015,Male,72.69,64.85
+Serbia,2015,Female,77.76,68.06
+Serbia,2010,Both sexes,74.2,65.66
+Serbia,2010,Male,71.63,63.97
+Serbia,2010,Female,76.83,67.38
+Serbia,2000,Both sexes,71.43,63.43
+Serbia,2000,Male,68.66,61.54
+Serbia,2000,Female,74.28,65.39
+Seychelles,2019,Both sexes,73.34,64.01
+Seychelles,2019,Male,69.98,61.86
+Seychelles,2019,Female,77.15,66.43
+Seychelles,2015,Both sexes,73.2,63.98
+Seychelles,2015,Male,69.95,61.9
+Seychelles,2015,Female,76.83,66.31
+Seychelles,2010,Both sexes,73.01,63.97
+Seychelles,2010,Male,69.57,61.78
+Seychelles,2010,Female,76.84,66.42
+Seychelles,2000,Both sexes,71.87,63.07
+Seychelles,2000,Male,67.81,60.33
+Seychelles,2000,Female,76.28,66.06
+Sierra Leone,2019,Both sexes,60.77,52.92
+Sierra Leone,2019,Male,59.6,52.52
+Sierra Leone,2019,Female,61.9,53.29
+Sierra Leone,2015,Both sexes,56.94,49.7
+Sierra Leone,2015,Male,55.9,49.39
+Sierra Leone,2015,Female,57.93,49.99
+Sierra Leone,2010,Both sexes,54.74,47.76
+Sierra Leone,2010,Male,53.65,47.39
+Sierra Leone,2010,Female,55.78,48.1
+Sierra Leone,2000,Both sexes,48.73,42.22
+Sierra Leone,2000,Male,46.77,40.94
+Sierra Leone,2000,Female,50.73,43.53
+Singapore,2019,Both sexes,83.22,73.55
+Singapore,2019,Male,81.05,72.39
+Singapore,2019,Female,85.45,74.72
+Singapore,2015,Both sexes,82.81,73.2
+Singapore,2015,Male,80.72,72.12
+Singapore,2015,Female,84.89,74.25
+Singapore,2010,Both sexes,81.7,72.34
+Singapore,2010,Male,79.36,71.06
+Singapore,2010,Female,84.01,73.57
+Singapore,2000,Both sexes,78.44,69.49
+Singapore,2000,Male,76.2,68.22
+Singapore,2000,Female,80.71,70.76
+Slovakia,2019,Both sexes,78.23,68.54
+Slovakia,2019,Male,74.84,66.16
+Slovakia,2019,Female,81.44,70.76
+Slovakia,2015,Both sexes,77.01,67.64
+Slovakia,2015,Male,73.48,65.12
+Slovakia,2015,Female,80.37,70.01
+Slovakia,2010,Both sexes,75.47,66.48
+Slovakia,2010,Male,71.69,63.75
+Slovakia,2010,Female,79.12,69.12
+Slovakia,2000,Both sexes,73.3,64.72
+Slovakia,2000,Male,69.16,61.64
+Slovakia,2000,Female,77.43,67.78
+Slovenia,2019,Both sexes,81.31,70.74
+Slovenia,2019,Male,78.59,69.01
+Slovenia,2019,Female,84.06,72.48
+Slovenia,2015,Both sexes,80.47,70.04
+Slovenia,2015,Male,77.57,68.13
+Slovenia,2015,Female,83.32,71.92
+Slovenia,2010,Both sexes,79.55,69.23
+Slovenia,2010,Male,76.25,66.96
+Slovenia,2010,Female,82.73,71.41
+Slovenia,2000,Both sexes,76.05,66.52
+Slovenia,2000,Male,72.18,63.77
+Slovenia,2000,Female,79.74,69.12
+Solomon Islands,2019,Both sexes,65.25,57.76
+Solomon Islands,2019,Male,62.87,56.51
+Solomon Islands,2019,Female,67.87,59.14
+Solomon Islands,2015,Both sexes,64.74,57.4
+Solomon Islands,2015,Male,62.34,56.1
+Solomon Islands,2015,Female,67.41,58.84
+Solomon Islands,2010,Both sexes,63.69,56.58
+Solomon Islands,2010,Male,61.3,55.28
+Solomon Islands,2010,Female,66.4,58.06
+Solomon Islands,2000,Both sexes,62.51,55.68
+Solomon Islands,2000,Male,60.12,54.36
+Solomon Islands,2000,Female,65.24,57.18
+Somalia,2019,Both sexes,56.47,49.72
+Somalia,2019,Male,54.01,48.32
+Somalia,2019,Female,59.22,51.31
+Somalia,2015,Both sexes,54.57,48.09
+Somalia,2015,Male,52.17,46.73
+Somalia,2015,Female,57.31,49.68
+Somalia,2010,Both sexes,51.98,45.91
+Somalia,2010,Male,49.49,44.44
+Somalia,2010,Female,54.91,47.67
+Somalia,2000,Both sexes,49.87,44.01
+Somalia,2000,Male,47.6,42.75
+Somalia,2000,Female,52.58,45.53
+South Africa,2019,Both sexes,65.25,56.15
+South Africa,2019,Male,62.2,54.59
+South Africa,2019,Female,68.29,57.69
+South Africa,2015,Both sexes,62.57,54.11
+South Africa,2015,Male,59.82,52.71
+South Africa,2015,Female,65.34,55.5
+South Africa,2010,Both sexes,57.14,49.61
+South Africa,2010,Male,55.04,48.72
+South Africa,2010,Female,59.24,50.5
+South Africa,2000,Both sexes,55.75,48.48
+South Africa,2000,Male,53.08,47.06
+South Africa,2000,Female,58.63,50.03
+South Sudan,2019,Both sexes,62.79,53.66
+South Sudan,2019,Male,60.83,52.88
+South Sudan,2019,Female,64.84,54.47
+South Sudan,2015,Both sexes,61.99,53.02
+South Sudan,2015,Male,59.8,52.06
+South Sudan,2015,Female,64.3,54.02
+South Sudan,2010,Both sexes,61.1,52.38
+South Sudan,2010,Male,59.2,51.68
+South Sudan,2010,Female,63.08,53.12
+South Sudan,2000,Both sexes,54.15,46.36
+South Sudan,2000,Male,52.05,45.41
+South Sudan,2000,Female,56.38,47.37
+Spain,2019,Both sexes,83.22,72.09
+Spain,2019,Male,80.68,71.26
+Spain,2019,Female,85.68,72.85
+Spain,2015,Both sexes,82.33,71.56
+Spain,2015,Male,79.66,70.64
+Spain,2015,Female,84.94,72.44
+Spain,2010,Both sexes,81.69,71.03
+Spain,2010,Male,78.76,69.81
+Spain,2010,Female,84.58,72.22
+Spain,2000,Both sexes,79.08,69.06
+Spain,2000,Male,75.69,67.14
+Spain,2000,Female,82.48,70.99
+Sri Lanka,2019,Both sexes,76.87,67.05
+Sri Lanka,2019,Male,73.8,65.05
+Sri Lanka,2019,Female,79.81,68.97
+Sri Lanka,2015,Both sexes,76.27,66.55
+Sri Lanka,2015,Male,73.05,64.42
+Sri Lanka,2015,Female,79.41,68.63
+Sri Lanka,2010,Both sexes,73.3,64.19
+Sri Lanka,2010,Male,69.44,61.45
+Sri Lanka,2010,Female,77.26,66.99
+Sri Lanka,2000,Both sexes,71.89,62.99
+Sri Lanka,2000,Male,67.92,60.12
+Sri Lanka,2000,Female,76.3,66.18
+Sudan,2019,Both sexes,69.15,59.91
+Sudan,2019,Male,67.55,59.56
+Sudan,2019,Female,70.76,60.28
+Sudan,2015,Both sexes,67.94,58.89
+Sudan,2015,Male,66.19,58.42
+Sudan,2015,Female,69.71,59.39
+Sudan (until 2011),2010,Both sexes,66.56,57.73
+Sudan (until 2011),2010,Male,64.74,57.2
+Sudan (until 2011),2010,Female,68.41,58.28
+Sudan (until 2011),2000,Both sexes,62.47,54.27
+Sudan (until 2011),2000,Male,60.36,53.45
+Sudan (until 2011),2000,Female,64.67,55.13
+Suriname,2019,Both sexes,71.48,62.39
+Suriname,2019,Male,68.5,60.72
+Suriname,2019,Female,74.63,64.16
+Suriname,2015,Both sexes,72.6,63.18
+Suriname,2015,Male,69.5,61.4
+Suriname,2015,Female,75.85,65.03
+Suriname,2010,Both sexes,71.83,62.65
+Suriname,2010,Male,68.71,60.82
+Suriname,2010,Female,75.12,64.57
+Suriname,2000,Both sexes,69.94,61.31
+Suriname,2000,Male,67.13,59.72
+Suriname,2000,Female,72.98,63.03
+Sweden,2019,Both sexes,82.4,71.91
+Sweden,2019,Male,80.83,71.69
+Sweden,2019,Female,83.97,72.11
+Sweden,2015,Both sexes,81.75,71.43
+Sweden,2015,Male,79.97,71
+Sweden,2015,Female,83.5,71.83
+Sweden,2010,Both sexes,81.3,71.18
+Sweden,2010,Male,79.41,70.66
+Sweden,2010,Female,83.15,71.65
+Sweden,2000,Both sexes,79.57,69.86
+Sweden,2000,Male,77.28,69
+Sweden,2000,Female,81.79,70.65
+Switzerland,2019,Both sexes,83.45,72.52
+Switzerland,2019,Male,81.75,72.19
+Switzerland,2019,Female,85.08,72.82
+Switzerland,2015,Both sexes,82.61,71.75
+Switzerland,2015,Male,80.64,71.15
+Switzerland,2015,Female,84.5,72.28
+Switzerland,2010,Both sexes,82.19,71.37
+Switzerland,2010,Male,80.03,70.64
+Switzerland,2010,Female,84.18,72
+Switzerland,2000,Both sexes,79.72,69.29
+Switzerland,2000,Male,76.89,67.87
+Switzerland,2000,Female,82.35,70.57
+Syrian Arab Republic,2019,Both sexes,72.67,62.87
+Syrian Arab Republic,2019,Male,71.18,62.48
+Syrian Arab Republic,2019,Female,74.26,63.32
+Syrian Arab Republic,2015,Both sexes,64.4,56.34
+Syrian Arab Republic,2015,Male,60.88,54.14
+Syrian Arab Republic,2015,Female,68.37,58.81
+Syrian Arab Republic,2010,Both sexes,74.35,65.11
+Syrian Arab Republic,2010,Male,73.2,65.22
+Syrian Arab Republic,2010,Female,75.63,65.09
+Syrian Arab Republic,2000,Both sexes,71.46,62.8
+Syrian Arab Republic,2000,Male,70.35,62.91
+Syrian Arab Republic,2000,Female,72.71,62.79
+Tajikistan,2019,Both sexes,69.5,62.01
+Tajikistan,2019,Male,67.58,60.91
+Tajikistan,2019,Female,71.55,63.19
+Tajikistan,2015,Both sexes,68.66,61.43
+Tajikistan,2015,Male,66.69,60.29
+Tajikistan,2015,Female,70.82,62.69
+Tajikistan,2010,Both sexes,68.01,60.86
+Tajikistan,2010,Male,66.04,59.67
+Tajikistan,2010,Female,70.19,62.19
+Tajikistan,2000,Both sexes,65.58,58.35
+Tajikistan,2000,Male,63.53,57.01
+Tajikistan,2000,Female,67.77,59.79
+Thailand,2019,Both sexes,77.7,68.26
+Thailand,2019,Male,74.36,65.93
+Thailand,2019,Female,81.04,70.6
+Thailand,2015,Both sexes,77.41,68.02
+Thailand,2015,Male,74.13,65.73
+Thailand,2015,Female,80.7,70.33
+Thailand,2010,Both sexes,76.25,67.09
+Thailand,2010,Male,73.24,65.01
+Thailand,2010,Female,79.3,69.19
+Thailand,2000,Both sexes,71.25,62.64
+Thailand,2000,Male,67.52,59.87
+Thailand,2000,Female,75.2,65.55
+Timor-Leste,2019,Both sexes,69.62,60.89
+Timor-Leste,2019,Male,67.93,59.8
+Timor-Leste,2019,Female,71.41,62.03
+Timor-Leste,2015,Both sexes,68.87,60.34
+Timor-Leste,2015,Male,67.31,59.43
+Timor-Leste,2015,Female,70.49,61.28
+Timor-Leste,2010,Both sexes,68.06,59.29
+Timor-Leste,2010,Male,66.79,58.43
+Timor-Leste,2010,Female,69.36,60.19
+Timor-Leste,2000,Both sexes,62.67,53.05
+Timor-Leste,2000,Male,61.95,52.4
+Timor-Leste,2000,Female,63.4,53.73
+Togo,2019,Both sexes,64.27,56.19
+Togo,2019,Male,61.52,54.7
+Togo,2019,Female,67.23,57.8
+Togo,2015,Both sexes,61.92,54.21
+Togo,2015,Male,59.24,52.77
+Togo,2015,Female,64.83,55.8
+Togo,2010,Both sexes,59.33,51.96
+Togo,2010,Male,57.04,50.82
+Togo,2010,Female,61.83,53.24
+Togo,2000,Both sexes,55.95,48.93
+Togo,2000,Male,53.9,47.96
+Togo,2000,Female,58.13,49.98
+Tonga,2019,Both sexes,72.57,64.01
+Tonga,2019,Male,69.81,62.68
+Tonga,2019,Female,75.61,65.51
+Tonga,2015,Both sexes,72.33,63.93
+Tonga,2015,Male,69.45,62.49
+Tonga,2015,Female,75.54,65.58
+Tonga,2010,Both sexes,72.22,63.87
+Tonga,2010,Male,69.14,62.32
+Tonga,2010,Female,75.5,65.55
+Tonga,2000,Both sexes,70.92,62.87
+Tonga,2000,Male,68.04,61.47
+Tonga,2000,Female,74.2,64.51
+Trinidad and Tobago,2019,Both sexes,76.13,66.23
+Trinidad and Tobago,2019,Male,72.54,63.98
+Trinidad and Tobago,2019,Female,79.92,68.61
+Trinidad and Tobago,2015,Both sexes,74.61,65.19
+Trinidad and Tobago,2015,Male,71.1,62.93
+Trinidad and Tobago,2015,Female,78.33,67.58
+Trinidad and Tobago,2010,Both sexes,72.12,63.34
+Trinidad and Tobago,2010,Male,68.74,61.17
+Trinidad and Tobago,2010,Female,75.69,65.65
+Trinidad and Tobago,2000,Both sexes,69.7,61.43
+Trinidad and Tobago,2000,Male,66.94,59.82
+Trinidad and Tobago,2000,Female,72.58,63.11
+Tunisia,2019,Both sexes,77.04,66.89
+Tunisia,2019,Male,74.88,66.09
+Tunisia,2019,Female,79.19,67.69
+Tunisia,2015,Both sexes,76.7,66.75
+Tunisia,2015,Male,74.58,65.97
+Tunisia,2015,Female,78.83,67.55
+Tunisia,2010,Both sexes,76.05,66.3
+Tunisia,2010,Male,73.95,65.49
+Tunisia,2010,Female,78.21,67.15
+Tunisia,2000,Both sexes,74.12,64.8
+Tunisia,2000,Male,71.94,63.94
+Tunisia,2000,Female,76.49,65.78
+Turkey,2019,Both sexes,78.62,68.41
+Turkey,2019,Male,76.44,67.81
+Turkey,2019,Female,80.67,68.96
+Turkey,2015,Both sexes,77.79,67.72
+Turkey,2015,Male,75.39,66.94
+Turkey,2015,Female,80.06,68.43
+Turkey,2010,Both sexes,76.89,66.95
+Turkey,2010,Male,74.65,66.3
+Turkey,2010,Female,79.08,67.6
+Turkey,2000,Both sexes,74.41,64.97
+Turkey,2000,Male,71.94,64.13
+Turkey,2000,Female,76.85,65.83
+Turkmenistan,2019,Both sexes,69.75,62.11
+Turkmenistan,2019,Male,66.48,59.93
+Turkmenistan,2019,Female,72.97,64.27
+Turkmenistan,2015,Both sexes,69.11,61.73
+Turkmenistan,2015,Male,65.66,59.42
+Turkmenistan,2015,Female,72.57,64.04
+Turkmenistan,2010,Both sexes,67.31,60.12
+Turkmenistan,2010,Male,63.62,57.56
+Turkmenistan,2010,Female,71.09,62.74
+Turkmenistan,2000,Both sexes,63.32,56.64
+Turkmenistan,2000,Male,59.34,53.76
+Turkmenistan,2000,Female,67.43,59.62
+Uganda,2019,Both sexes,66.69,58.21
+Uganda,2019,Male,63.24,56.05
+Uganda,2019,Female,70.1,60.35
+Uganda,2015,Both sexes,64.47,56.29
+Uganda,2015,Male,60.81,53.94
+Uganda,2015,Female,68.13,58.66
+Uganda,2010,Both sexes,59.67,52.12
+Uganda,2010,Male,57.02,50.62
+Uganda,2010,Female,62.21,53.57
+Uganda,2000,Both sexes,48.76,42.52
+Uganda,2000,Male,46.8,41.36
+Uganda,2000,Female,50.75,43.7
+Ukraine,2019,Both sexes,73.02,64.3
+Ukraine,2019,Male,68,60.6
+Ukraine,2019,Female,77.81,67.84
+Ukraine,2015,Both sexes,72.2,63.79
+Ukraine,2015,Male,67.21,60.1
+Ukraine,2015,Female,76.96,67.3
+Ukraine,2010,Both sexes,70.2,62.2
+Ukraine,2010,Male,65.2,58.51
+Ukraine,2010,Female,75.1,65.81
+Ukraine,2000,Both sexes,67.53,59.71
+Ukraine,2000,Male,62.06,55.54
+Ukraine,2000,Female,73.24,64.07
+United Arab Emirates,2019,Both sexes,76.08,65.99
+United Arab Emirates,2019,Male,75.1,65.84
+United Arab Emirates,2019,Female,78.42,66.19
+United Arab Emirates,2015,Both sexes,75.31,65.45
+United Arab Emirates,2015,Male,74.25,65.26
+United Arab Emirates,2015,Female,77.84,65.72
+United Arab Emirates,2010,Both sexes,74.86,65.1
+United Arab Emirates,2010,Male,73.86,64.91
+United Arab Emirates,2010,Female,77.39,65.25
+United Arab Emirates,2000,Both sexes,73.18,63.85
+United Arab Emirates,2000,Male,72.2,63.7
+United Arab Emirates,2000,Female,75.06,63.76
+United Kingdom of Great Britain and Northern Ireland,2019,Both sexes,81.4,70.13
+United Kingdom of Great Britain and Northern Ireland,2019,Male,79.79,69.64
+United Kingdom of Great Britain and Northern Ireland,2019,Female,82.99,70.62
+United Kingdom of Great Britain and Northern Ireland,2015,Both sexes,80.65,69.67
+United Kingdom of Great Britain and Northern Ireland,2015,Male,78.93,69.03
+United Kingdom of Great Britain and Northern Ireland,2015,Female,82.34,70.3
+United Kingdom of Great Britain and Northern Ireland,2010,Both sexes,80.25,69.44
+United Kingdom of Great Britain and Northern Ireland,2010,Male,78.34,68.68
+United Kingdom of Great Britain and Northern Ireland,2010,Female,82.09,70.18
+United Kingdom of Great Britain and Northern Ireland,2000,Both sexes,77.85,67.57
+United Kingdom of Great Britain and Northern Ireland,2000,Male,75.49,66.5
+United Kingdom of Great Britain and Northern Ireland,2000,Female,80.09,68.57
+United Republic of Tanzania,2019,Both sexes,67.34,58.46
+United Republic of Tanzania,2019,Male,65.37,57.62
+United Republic of Tanzania,2019,Female,69.26,59.26
+United Republic of Tanzania,2015,Both sexes,65.36,56.74
+United Republic of Tanzania,2015,Male,63.38,55.86
+United Republic of Tanzania,2015,Female,67.26,57.58
+United Republic of Tanzania,2010,Both sexes,61.39,53.36
+United Republic of Tanzania,2010,Male,60.02,52.93
+United Republic of Tanzania,2010,Female,62.63,53.71
+United Republic of Tanzania,2000,Both sexes,52.47,45.44
+United Republic of Tanzania,2000,Male,51.28,45.01
+United Republic of Tanzania,2000,Female,53.61,45.84
+United States of America,2019,Both sexes,78.5,66.12
+United States of America,2019,Male,76.28,65.21
+United States of America,2019,Female,80.73,67.02
+United States of America,2015,Both sexes,78.56,66.56
+United States of America,2015,Male,76.31,65.58
+United States of America,2015,Female,80.8,67.53
+United States of America,2010,Both sexes,78.56,66.74
+United States of America,2010,Male,76.27,65.7
+United States of America,2010,Female,80.8,67.74
+United States of America,2000,Both sexes,76.69,65.8
+United States of America,2000,Male,74.12,64.58
+United States of America,2000,Female,79.17,66.96
+Uruguay,2019,Both sexes,77.1,67.51
+Uruguay,2019,Male,73.48,65.4
+Uruguay,2019,Female,80.56,69.51
+Uruguay,2015,Both sexes,77.03,67.54
+Uruguay,2015,Male,73.31,65.32
+Uruguay,2015,Female,80.56,69.64
+Uruguay,2010,Both sexes,76.36,67.15
+Uruguay,2010,Male,72.54,64.87
+Uruguay,2010,Female,80.05,69.33
+Uruguay,2000,Both sexes,74.82,65.94
+Uruguay,2000,Male,70.82,63.48
+Uruguay,2000,Female,78.8,68.39
+Uzbekistan,2019,Both sexes,73.01,64.68
+Uzbekistan,2019,Male,70.76,63.54
+Uzbekistan,2019,Female,75.21,65.8
+Uzbekistan,2015,Both sexes,71.45,63.46
+Uzbekistan,2015,Male,68.98,62.16
+Uzbekistan,2015,Female,73.92,64.77
+Uzbekistan,2010,Both sexes,70.19,62.33
+Uzbekistan,2010,Male,67.51,60.81
+Uzbekistan,2010,Female,72.91,63.89
+Uzbekistan,2000,Both sexes,65.27,58.08
+Uzbekistan,2000,Male,62.4,56.28
+Uzbekistan,2000,Female,68.23,59.94
+Vanuatu,2019,Both sexes,65.31,57.83
+Vanuatu,2019,Male,62.66,56.39
+Vanuatu,2019,Female,68.32,59.44
+Vanuatu,2015,Both sexes,64.64,57.36
+Vanuatu,2015,Male,62.02,55.93
+Vanuatu,2015,Female,67.68,59.02
+Vanuatu,2010,Both sexes,64.52,57.34
+Vanuatu,2010,Male,61.9,55.92
+Vanuatu,2010,Female,67.5,58.94
+Vanuatu,2000,Both sexes,63.9,56.79
+Vanuatu,2000,Male,61.35,55.29
+Vanuatu,2000,Female,66.94,58.57
+Venezuela (Bolivarian Republic of),2019,Both sexes,73.95,64.44
+Venezuela (Bolivarian Republic of),2019,Male,69.91,61.89
+Venezuela (Bolivarian Republic of),2019,Female,78.17,67.1
+Venezuela (Bolivarian Republic of),2015,Both sexes,74.66,65.1
+Venezuela (Bolivarian Republic of),2015,Male,70.59,62.51
+Venezuela (Bolivarian Republic of),2015,Female,78.97,67.84
+Venezuela (Bolivarian Republic of),2010,Both sexes,74.79,65.28
+Venezuela (Bolivarian Republic of),2010,Male,70.82,62.77
+Venezuela (Bolivarian Republic of),2010,Female,78.99,67.94
+Venezuela (Bolivarian Republic of),2000,Both sexes,74.09,64.68
+Venezuela (Bolivarian Republic of),2000,Male,70.51,62.5
+Venezuela (Bolivarian Republic of),2000,Female,77.88,67
+Viet Nam,2019,Both sexes,73.74,65.3
+Viet Nam,2019,Male,69.56,62.43
+Viet Nam,2019,Female,78.11,68.28
+Viet Nam,2015,Both sexes,73.16,64.89
+Viet Nam,2015,Male,68.88,61.96
+Viet Nam,2015,Female,77.61,67.93
+Viet Nam,2010,Both sexes,72.72,64.55
+Viet Nam,2010,Male,68.42,61.63
+Viet Nam,2010,Female,77.15,67.54
+Viet Nam,2000,Both sexes,71.45,63.3
+Viet Nam,2000,Male,67.33,60.62
+Viet Nam,2000,Female,75.61,66
+Yemen,2019,Both sexes,66.63,57.53
+Yemen,2019,Male,64.41,56.91
+Yemen,2019,Female,68.92,58.17
+Yemen,2015,Both sexes,67.47,58.38
+Yemen,2015,Male,65.41,57.93
+Yemen,2015,Female,69.58,58.84
+Yemen,2010,Both sexes,67.7,58.63
+Yemen,2010,Male,65.88,58.41
+Yemen,2010,Female,69.58,58.87
+Yemen,2000,Both sexes,62.69,54.46
+Yemen,2000,Male,60.86,54.1
+Yemen,2000,Female,64.69,54.9
+Zambia,2019,Both sexes,62.45,54.4
+Zambia,2019,Male,59.54,52.5
+Zambia,2019,Female,65.37,56.31
+Zambia,2015,Both sexes,60.5,52.71
+Zambia,2015,Male,57.93,51.07
+Zambia,2015,Female,63.02,54.32
+Zambia,2010,Both sexes,56.67,49.44
+Zambia,2010,Male,54.27,47.91
+Zambia,2010,Female,59.06,50.96
+Zambia,2000,Both sexes,44.46,38.95
+Zambia,2000,Male,43.69,38.63
+Zambia,2000,Female,45.24,39.3
+Zimbabwe,2019,Both sexes,60.68,53.07
+Zimbabwe,2019,Male,57.51,51.21
+Zimbabwe,2019,Female,63.61,54.8
+Zimbabwe,2015,Both sexes,58.48,51.17
+Zimbabwe,2015,Male,55.73,49.62
+Zimbabwe,2015,Female,60.96,52.59
+Zimbabwe,2010,Both sexes,51.49,45.22
+Zimbabwe,2010,Male,49.58,44.25
+Zimbabwe,2010,Female,53.21,46.12
+Zimbabwe,2000,Both sexes,46.57,41.03
+Zimbabwe,2000,Male,45.15,40.39
+Zimbabwe,2000,Female,48.12,41.77

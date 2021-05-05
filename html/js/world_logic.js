@@ -1,23 +1,41 @@
-// Creating map object
-var myMap = L.map("map", {
-  center: [37.7749, -122.4194],
-  zoom: 4
-});
+var svg = d3.select("svg"),
+  width = +svg.attr("width"),
+  height = +svg.attr("height");
 
-// Adding tile layer
-L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-  attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
-  tileSize: 512,
-  maxZoom: 18,
-  zoomOffset: -1,
-  id: "mapbox/light-v9",
-  accessToken: API_KEY
-}).addTo(myMap);
+// Map and projection
+var path = d3.geoPath();
+var projection = d3.geoMercator()
+  .scale(70)
+  .center([0,20])
+  .translate([width / 2, height / 2]);
 
-L.geoJson(worldData).addTo(myMap);
+// Data and color scale
+var data = d3.map();
+var colorScale = d3.scaleThreshold()
+  .domain([40, 45, 50, 55, 60, 65, 70, 73, 76, 79, 82, 85])
+  .range(d3.schemeBlues[9]);
 
-      //basically you have a bunch of arguments that go within the L.geoJson after
-      //you've created a d3.json to read the url. We don't need to go through this
-      //if you're already able to do it. Basically you create a bunch of functions
-      //for the L.geoJson arguments. This can tighten up your code.
+// Load external data and boot
+d3.queue()
+  .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson")
+  .defer(d3.csv, "js/combined_2015.csv", function(d) { data.set(d.Location, +d.Life_Expectancy); })
+  .await(ready);
 
+function ready(error, topo) {
+
+  // Draw the map
+  svg.append("g")
+    .selectAll("path")
+    .data(topo.features)
+    .enter()
+    .append("path")
+      // draw each country
+      .attr("d", d3.geoPath()
+        .projection(projection)
+      )
+      // set the color of each country
+      .attr("fill", function (d) {
+        d.total = data.get(d.properties.name) || 0;
+        return colorScale(d.total);
+      });
+    }

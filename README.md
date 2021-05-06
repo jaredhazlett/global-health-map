@@ -1,6 +1,6 @@
 # global-health-map
 
-This project attempts to find patterns within health data by looking at a variety of metrics across the world. This project cleans and organizes data together to provide a varied but accurate dataset, then uses that data to predict gender based on health outcomes using SciKit Learn and Tensor Flow. In addition, this project plans to upload data in an easily digestible way with images, statistics, graphs, and using D3 a choropleth map with world outcomes. This project is ongoing.
+INCOMPLETE - This project attempts to find patterns within health data by looking at a variety of metrics across the world. This project cleans and organizes data together to provide a varied but accurate dataset, then uses that data to predict gender based on health outcomes using SciKit Learn and Tensor Flow. In addition, this project plans to upload data in an easily digestible way with images, statistics, graphs, and using D3 a choropleth map with world outcomes. This project is ongoing.
 
 
 Female life expectancy correlates strongly with male life expectancy. 

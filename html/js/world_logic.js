@@ -5,15 +5,15 @@ var svg = d3.select("svg"),
 // Map and projection
 var path = d3.geoPath();
 var projection = d3.geoMercator()
-  .scale(70)
+  .scale(150)
   .center([0,20])
   .translate([width / 2, height / 2]);
 
 // Data and color scale
 var data = d3.map();
 var colorScale = d3.scaleThreshold()
-  .domain([40, 45, 50, 55, 60, 65, 70, 73, 76, 79, 82, 85])
-  .range(d3.schemeBlues[9]);
+  .domain([47, 54, 60, 65, 70, 75, 79, 82, 83])
+  .range(d3.schemeYlOrRd[9]);
 
 // Load external data and boot
 d3.queue()

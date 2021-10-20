@@ -9,6 +9,11 @@ Female life expectancy correlates strongly with male life expectancy.
 
 Machine Learning predicts gender based on health data.
 
+Linear Regression performed on various features to determine which ones are positively or negatively associated with life expectancy
+<img width="637" alt="Screen Shot 2021-10-20 at 11 59 33 AM" src="https://user-images.githubusercontent.com/69011929/138155357-fd48d48f-53fe-4a24-abd1-50fee1ad6896.png">
+
+
+
 ![Screen Shot 2021-05-06 at 11 27 23 AM](https://user-images.githubusercontent.com/69011929/117347612-26708800-ae5e-11eb-89ce-de38e1c1fbc9.png)
 
 D3 and Javascript plots life expectancy. Darker colors represent long life expectancies while lighter colors represent low life expectancies. Very light yellow represents missing data. 
